@@ -1,0 +1,36 @@
+[
+  {
+    "QA00392": {
+        "ti": {
+            "android": {
+                "cpf": "75273337313",
+                "senha": "147258",
+                "agencia": "",
+                "conta": ",",
+                "digitoConta": ""
+            },"ios": {
+                "cpf": "75273337313",
+                "senha": "147258",
+                "agencia": "",
+                "conta": ",",
+                "digitoConta": ""
+            }
+        },"tu": {
+            "android": {
+                "cpf": "77974810084",
+                "senha": "147258",
+                "agencia": "",
+                "conta": ",",
+                "digitoConta": ""
+            },"ios": {
+                "cpf": "77974810084",
+                "senha": "147258",
+                "agencia": "",
+                "conta": ",",
+                "digitoConta": ""
+            }
+        }
+
+    }
+  }
+]

@@ -1,0 +1,124 @@
+[
+    {
+        "QA05405": {
+            "instancia": [
+                {
+                    "squad": "@contingencia",
+                    "tags": "@com-reset-app",
+                    "tu": {
+                        "cpf": "93487665468",
+                        "senha": "147258",
+                        "objeto": {
+                            "banco": "BANCO DO BRASIL S.A.",
+                            "agencia": "3385",
+                            "conta": "33121",
+                            "cpfDestino": "47925013699",
+                            "razaoSocialNome": "JORGE DO BRASIL",
+                            "quantiaTransferir": "100,00",
+                            "tipoConta": "Poupança",
+                            "finalidade": "CREDITO EM CONTA",
+                            "de": "Você",
+                            "para": "JORGE DO BRASIL",
+                            "contaDestino": "Conta-Poupança",
+                            "contaOrigem": "Conta-Corrente",
+                            "tipo": "TED",
+                            "finalidadeVerificacao": "CREDITO EM CONTA",
+                            "nomeTransferencia": "Teste",
+                            "quantiaVerificacao": "R$100,00",
+                            "valortarifa": "11,65",
+                            "bankId": "1",
+                            "nome": "JORGE",
+                            "sobrenome": "BANCO DO BRASIL",
+                            "nomeCompleto": "JORGE DO BRASIL"
+                        }
+                    },
+                    "ti": {
+                        "cpf": "72632133033",
+                        "senha": "147258",
+                        "objeto": {
+                            "banco": "BANCO DO BRASIL S.A.",
+                            "agencia": "3385",
+                            "conta": "33121",
+                            "cpfDestino": "57081840434",
+                            "razaoSocialNome": "AUTOMACAO QWRTAUNAY",
+                            "quantiaTransferir": "100,00",
+                            "tipoConta": "Poupança",
+                            "finalidade": "CREDITO EM CONTA",
+                            "de": "Você",
+                            "para": "AUTOMACAO QWRTAUNAY",
+                            "contaDestino": "Conta-Poupança",
+                            "contaOrigem": "Conta-Corrente",
+                            "tipo": "TED",
+                            "finalidadeVerificacao": "CREDITO EM CONTA",
+                            "nomeTransferencia": "Teste",
+                            "quantiaVerificacao": "R$100,00",
+                            "valortarifa": "11,65",
+                            "bankId": "1",
+                            "nome": "JOSE",
+                            "sobrenome": "SILVA",
+                            "nomeCompleto": "JOSE SILVA"
+                        }
+                    }
+                },
+                {
+                    "squad": "@contingencia",
+                    "tags": "@sem-reset-app",
+                    "tu": {
+                        "cpf": "93487665468",
+                        "senha": "147258",
+                        "objeto": {
+                            "banco": "BANCO DO BRASIL S.A.",
+                            "agencia": "3385",
+                            "conta": "33121",
+                            "cpfDestino": "47925013699",
+                            "razaoSocialNome": "JORGE DO BRASIL",
+                            "quantiaTransferir": "100,00",
+                            "tipoConta": "Poupança",
+                            "finalidade": "CREDITO EM CONTA",
+                            "de": "Você",
+                            "para": "JORGE DO BRASIL",
+                            "contaDestino": "Conta-Poupança",
+                            "contaOrigem": "Conta-Corrente",
+                            "tipo": "TED",
+                            "finalidadeVerificacao": "CREDITO EM CONTA",
+                            "nomeTransferencia": "Teste",
+                            "quantiaVerificacao": "R$100,00",
+                            "valortarifa": "11,65",
+                            "bankId": "1",
+                            "nome": "JORGE",
+                            "sobrenome": "BANCO DO BRASIL",
+                            "nomeCompleto": "JORGE DO BRASIL"
+                        }
+                    },
+                    "ti": {
+                        "cpf": "93174691168",
+                        "senha": "147258",
+                        "objeto": {
+                            "banco": "BANCO DO BRASIL S.A.",
+                            "agencia": "3385",
+                            "conta": "33121",
+                            "cpfDestino": "07463886590",
+                            "razaoSocialNome": "BANCO DO BRASIL",
+                            "quantiaTransferir": "100,00",
+                            "tipoConta": "Poupança",
+                            "finalidade": "CREDITO EM CONTA",
+                            "de": "Você",
+                            "para": "BANCO DO BRASIL",
+                            "contaDestino": "Conta-Poupança",
+                            "contaOrigem": "Conta-Corrente",
+                            "tipo": "TED",
+                            "finalidadeVerificacao": "CREDITO EM CONTA",
+                            "nomeTransferencia": "Teste",
+                            "quantiaVerificacao": "R$100,00",
+                            "valortarifa": "11,65",
+                            "bankId": "1",
+                            "nome": "JOSE",
+                            "sobrenome": "SILVA",
+                            "nomeCompleto": "BANCO DO BRASIL"
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

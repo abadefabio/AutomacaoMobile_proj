@@ -1,0 +1,39 @@
+[
+  {
+
+    "QA03216": {
+        "ti": {
+            "android": {
+                "cpf": "79901828660",
+                "senha": "147258",
+                "vaquinha": {
+                    "nomeVaquinha": "QA03216",
+                    "valorVaquinha": "1000"
+                }
+            },"ios": {
+                "cpf": "21811147143",
+                "senha": "147258",
+                "vaquinha": {
+                    "nomeVaquinha": "QA03216",
+                    "valorVaquinha": "1000"                }
+            }
+        },"tu": {
+            "android": {
+                "cpf": "79901828660",
+                "senha": "147258",
+                "vaquinha": {
+                    "nomeVaquinha": "QA03216",
+                    "valorVaquinha": "1000"
+                }
+            },"ios": {
+                "cpf": "21811147143",
+                "senha": "147258",
+                "vaquinha": {
+                    "nomeVaquinha": "QA03216",
+                    "valorVaquinha": "1000"
+                }
+            }
+        }
+    }
+  }
+]

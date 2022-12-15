@@ -1,0 +1,35 @@
+[
+  {
+    "QA02832": {
+        "ti": {
+            "android": {
+                "cpf": "65727476895",
+                "senha": "147258",
+                "valor": "100000",
+                "dominioUsuarioEmail": "corpd/I908989",
+                "senhaEmail": "teste08"
+            },"ios": {
+                "cpf": "10971364001",
+                "senha": "147258",
+                "valor": "100000",
+                "dominioUsuarioEmail": "corpd/I908989",
+                "senhaEmail": "teste08"
+            }
+        },"tu": {
+            "android": {
+                "cpf": "30463355717",
+                "senha": "147258",
+                "valor": "100000",
+                "dominioUsuarioEmail": "corpd/I908989",
+                "senhaEmail": "teste08"
+            },"ios": {
+                "cpf": "30463355717",
+                "senha": "147258",
+                "valor": "100000",
+                "dominioUsuarioEmail": "corpd/I908989",
+                "senhaEmail": "teste08"
+            }
+        }
+    }
+  }
+]

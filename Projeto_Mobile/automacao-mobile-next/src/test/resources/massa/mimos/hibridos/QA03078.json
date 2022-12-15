@@ -1,0 +1,75 @@
+[
+  {
+    "QA03078": {
+        "ti": {
+            "android": {
+                "valorNomeOferta" : "Teste QA - 247",
+                "categoria" : "Automa",
+                "parceiro" : "Hotel Urbano",
+                "texto": "Teste QA - 247",
+                "pathArquivoImagem": "\\src\\test\\resources\\arquivo\\png-Uranus2.png",
+                "beneficio" : "Teste Benefício",
+                "formaDePagamento": "CARTAO_CREDITO_DEBITO",
+                "comoUsar": "Essa é uma oferta criada para teste de automação e será utilizada dentro do cenário",
+                "valor": "5",
+                "nomeBotao": "Teste QA - 247",
+                "link": "https://next.me",
+                "pathArquivoVoucher": "\\src\\test\\resources\\arquivo\\Tab_Voucher - 18.csv",
+                "loginApp": "61416337571",
+                "senhaApp": "147258",
+                "categoriaApp": "Automação"
+            },"ios": {
+                "valorNomeOferta" : "Teste QA - 247",
+                "categoria" : "Automa",
+                "parceiro" : "Hotel Urbano",
+                "texto": "Teste QA - 247",
+                "pathArquivoImagem": "\\src\\test\\resources\\arquivo\\png-Uranus2.png",
+                "beneficio" : "Teste Benefício",
+                "formaDePagamento": "CARTAO_CREDITO_DEBITO",
+                "comoUsar": "Essa é uma oferta criada para teste de automação e será utilizada dentro do cenário",
+                "valor": "5",
+                "nomeBotao": "Teste QA - 247",
+                "pathArquivoVoucher": "\\src\\test\\resources\\arquivo\\Tab_Voucher - 18.csv",
+                "loginApp": "60344591689",
+                "link": "https://next.me",
+                "senhaApp": "147258",
+                "categoriaApp": "Automação"
+            }
+        },"tu": {
+            "android": {
+                "valorNomeOferta" : "Teste QA - 247",
+                "categoria" : "Automa",
+                "parceiro" : "Hotel Urbano",
+                "texto": "Teste QA - 247",
+                "pathArquivoImagem": "\\src\\test\\resources\\arquivo\\png-Uranus2.png",
+                "beneficio" : "Teste Benefício",
+                "formaDePagamento": "CARTAO_CREDITO_DEBITO",
+                "comoUsar": "Essa é uma oferta criada para teste de automação e será utilizada dentro do cenário",
+                "valor": "5",
+                "nomeBotao": "Teste QA - 247",
+                "pathArquivoVoucher": "\\src\\test\\resources\\arquivo\\Tab_Voucher - 18.csv",
+                "loginApp": "61416337571",
+                "link": "https://next.me",
+                "senhaApp": "147258",
+                "categoriaApp": "Automação"
+            },"ios": {
+                "valorNomeOferta" : "Teste QA - 247",
+                "categoria" : "Automa",
+                "parceiro" : "Hotel Urbano",
+                "texto": "Teste QA - 247",
+                "pathArquivoImagem": "\\src\\test\\resources\\arquivo\\png-Uranus2.png",
+                "beneficio" : "Teste Benefício",
+                "formaDePagamento": "CARTAO_CREDITO_DEBITO",
+                "comoUsar": "Essa é uma oferta criada para teste de automação e será utilizada dentro do cenário",
+                "valor": "5",
+                "nomeBotao": "Teste QA - 247",
+                "pathArquivoVoucher": "\\src\\test\\resources\\arquivo\\Tab_Voucher - 18.csv",
+                "loginApp": "61416337571",
+                "link": "https://next.me",
+                "senhaApp": "147258",
+                "categoriaApp": "Automação"
+            }
+        }
+       }
+  }
+]

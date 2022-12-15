@@ -1,0 +1,52 @@
+[
+    {
+        "QA00044": {
+            "ti": {
+                "android": {
+                    "cpf": "81341495612",
+                    "senha": "147258",
+                    "cpfCnpjFormatado": "52.052.031/0001-90",
+                    "portabilidade": {
+                        "CPF/CNPJ": "52052031000190",
+                        "Status": "PENDENTE (SEM ENVIO AO PARTICIPANTE FOLHA DE PAGAMENTO)",
+                        "Banco": "33 - SANTANDER BANESPA",
+                        "Data da Solicitação": "21/07/2022"
+                    }
+                },
+                "ios": {
+                    "cpf": "66442893715",
+                    "senha": "147258",
+                    "cpfCnpjFormatado": "00.196.477/0001-94",
+                    "portabilidade": {
+                        "CPF/CNPJ": "00196477000194",
+                        "Status": "PENDENTE (SEM ENVIO AO PARTICIPANTE FOLHA DE PAGAMENTO)",
+                        "Banco": "33 - SANTANDER BANESPA",
+                        "Data da Solicitação": "03/08/2022"
+                    }
+                }
+            },
+            "tu": {
+                "android": {
+                    "cpf": "66672536914",
+                    "senha": "147258",
+                    "portabilidade": {
+                        "CPF/CNPJ": "07382019000199",
+                        "Status": "PENDENTE (SEM ENVIO AO PARTICIPANTE FOLHA DE PAGAMENTO)",
+                        "Banco": "33 - SANTANDER BANESPA",
+                        "Data da Solicitação": "22/12/2021"
+                    }
+                },
+                "ios": {
+                    "cpf": "57559562434",
+                    "senha": "147258",
+                    "portabilidade": {
+                        "CPF/CNPJ": "07382019000199",
+                        "Status": "PENDENTE (SEM ENVIO AO PARTICIPANTE FOLHA DE PAGAMENTO)",
+                        "Banco": "341-ITAU UNIBANCO S.A.",
+                        "Data da Solicitação": "28/12/2021"
+                    }
+                }
+            }
+        }
+    }
+]

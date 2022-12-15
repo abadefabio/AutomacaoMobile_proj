@@ -1,0 +1,57 @@
+[
+    {
+        "QA22519" :
+        {
+            "cpf": "44212220113",
+            "CorrecaoCep": "09090-000",
+            "Cep": "09090-000",
+            "CorrecaoLogradouro": "RUA DIVINO",
+            "CorrecaoNumero": "67",
+            "CorrecaoComplemento": "SEM",
+            "CorrecaoUf": "AC",
+            "CorrecaoCidade": "ACRELANDIA",
+            "Logradouro": "RUA DIVINO",
+            "Numero": "67",
+            "Complemento": "SEM",
+            "Uf": "AC",
+            "Cidade": "ACRELANDIA",
+            "requestAdesaoNext": {
+                "addressAdditionalInfo": "apt 10",
+                "areaCode": 11,
+                "birthPlace": "Pirituba",
+                "birthdate": "1988-05-27",
+                "cityId": 7388,
+                "cityOfBirthId": 50830,
+                "cnhId": "123456789",
+                "completeTutorial": true,
+                "countryOfBirthId": 46,
+                "customerName": "FULANO BELTRANO DA SILVA PERFIL NOVO",
+                "documentIssueDate": "",
+                "documentIssuerDepartment": "",
+                "documentIssuerStateId": "",
+                "eduCompletionDt": "",
+                "eduCurrentSemester": 0,
+                "eduInstitutionName": "Faculdade Beltrana",
+                "eduInstitutionStateCd": "SP",
+                "educationInstitutionStateId": "SP",
+                "email": "teste@teste.com",
+                "fatherName": "",
+                "gender": "F",
+                "joinDocumentType": "RG",
+                "motherName": "JOAQUINA DA SILVA",
+                "neighbourhood": "Bairro Liberdade",
+                "nickname": "fulaninho",
+                "onboardingApplicationStatus": 4,
+                "phoneNumber": 999999999,
+                "postalCode": 6220090,
+                "referencePersonName": "Valentina Silva",
+                "rgId": "",
+                "shouldActivate": false,
+                "stateCd": "SP",
+                "stateOfBirth": 11,
+                "streetName": "rua fulano de tal",
+                "streetNumber": 100
+            }
+        }
+    }
+]

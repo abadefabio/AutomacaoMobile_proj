@@ -1,0 +1,32 @@
+[
+    {
+        "QA04283": {
+            "ti": {
+                "android": {
+                    "cpf": "84765715000",
+                    "senha": "147258",
+                    "deepLink": "next://objetivos",
+                    "textoDeepLink": "Objetivos"
+                },"ios": {
+                    "cpf": "84765715000",
+                    "senha": "147258",
+                    "deepLink": "next://objetivos",
+                    "textoDeepLink": "Objetivos"
+                }
+            },"tu": {
+                "android": {
+                    "cpf": "84765715000",
+                    "senha": "147258",
+                    "deepLink": "next://objetivos",
+                    "textoDeepLink": "Objetivos"
+                },"ios": {
+                    "cpf": "84765715000",
+                    "senha": "147258",
+                    "deepLink": "next://objetivos",
+                    "textoDeepLink": "Objetivos"
+                }
+            }
+
+        }
+    }
+]

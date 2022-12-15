@@ -1,0 +1,35 @@
+[
+  {
+    "QA14359": {
+        "ti": {
+            "android": {
+                "cpf": "23975545933",
+                "senha": "147258",
+                "nome": "FULANO",
+                "sobrenome": "AUTOMACAO",
+                "banco": "001",
+                "agencia": "0269",
+                "conta": "263941",
+                "cpfContato":"23678988040"
+            },"ios": {
+                "cpf": "64375759801",
+                "senha": "147258",
+                "nome": "FULANO",
+                "sobrenome": "AUTOMACAO",
+                "banco": "001",
+                "agencia": "0269",
+                "conta": "263941",
+                "cpfContato":"23678988040"
+            }
+        },"tu": {
+            "android": {
+                "cpf": "11111124442",
+                "senha": "147258"
+            },"ios": {
+                "cpf": "11111124442",
+                "senha": "147258"
+            }
+        }
+    }
+  }
+]

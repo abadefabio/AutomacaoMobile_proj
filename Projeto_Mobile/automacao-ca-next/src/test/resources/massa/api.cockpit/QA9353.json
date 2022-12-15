@@ -1,0 +1,28 @@
+[
+    {
+        "QA9353": {
+            "cpf": "33275743830",
+            "validacaoVisao360" : {
+                "proposalData.listOfproducts[1].productDescription" : "Cesta Next",
+                "proposalData.listOfproducts[0].productDescription" : "Visa Next Platinum",
+                "name" : "JULIANA ROBERTA DE ALMEIDA FULANINHA SS",
+                "email" : "I907748@CORPRD.BRADESCO.COM.BR",
+                "dateOfBirth" : "1986-05-23",
+                "customerTypeDescription" : "Next",
+                "onboardingStatus" : 5,
+                "phoneNumbers.countryCode": "0055",
+                "phoneNumbers.areaCode": "0011",
+                "phoneNumbers.phoneNumber[0]": 953662215,
+                "gender" : "F"
+            },
+            "validacaoEndereco" : {
+                "addresses.streetName[0]" : "R MARIA AUGUSTA GRACCHI STIEVANO",
+                "addresses.streetNumber[0]" : "22",
+                "addresses.neighbourhood[0]" : "SANTO ANTONIO",
+                "addresses.cityName[0]" : "OSASCO",
+                "addresses.state[0]" : "SP",
+                "addresses.postalCode[0]" : "06132150"
+            }
+        }
+    }
+]

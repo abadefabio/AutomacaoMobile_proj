@@ -1,0 +1,32 @@
+[
+    {
+        "QA21702" :
+        {
+            "document": "75141431908",
+            "descricaoCampo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod temporary incididunt ut labore et dolore magna aliqua. Enim adim ad minimim veniam, quis nostrud exercise ullamco laboris nisi ut alipip ex ea commodo consequat. Duis auteur irure painn",
+            "requestAdesaoNext": {
+                "deviceId": "100691",
+                "document": "",
+                "hashId": "Zm82V2F6UnNXUlZQajRuSC9NQUNjNlFwRmlRZ2h4bVYyWGJwZHdlWm15bC84dW05UEV5d2N6RkVYUWRVemsycHRqSWlobW5taDFVMHZuNisxcUdlaUJZPQ==",
+                "birthDate": "2020-01-31",
+                "relationshipDegreeId": 2,
+                "customerName": "FULANO BELTRANO DA SILVA PERFIL NOVO",
+                "email": "teste@teste.com",
+                "mobilePhoneNumber": 999999999,
+                "mobileAreaCode": 11,
+                "postalCode": 6220090,
+                "streetName": "rua fulano de tal",
+                "streetNumber": 100,
+                "neighbourhood": "Bairro Liberdade",
+                "cityId": 7388,
+                "stateCd": "SP",
+                "addressAdditionalInfo": "addressAdditionalInfo",
+                "birthPlace": "Pirituba",
+                "cityOfBirthId": "50830",
+                "stateOfBirth": "11",
+                "countryOfBirthId": "46",
+                "rgId": "12312412"
+            }
+        }
+    }
+]

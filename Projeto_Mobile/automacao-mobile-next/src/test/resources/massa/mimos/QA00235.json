@@ -1,0 +1,33 @@
+[
+  {
+    "QA00235": {
+        "ti": {
+            "android": {
+                "cpf": "16418846060",
+                "senha": "147258",
+                "oferta_um" : "AUTOMAÇÃO DE TESTE LTDA",
+                "oferta": "ChefsClub",
+                "texto": "ChefsClub"
+            },"ios": {
+                "cpf": "57023986294",
+                "senha": "147258",
+                "oferta_um" : "AUTOMAÇÃO DE TESTE LTDA",
+                "oferta": "ChefsClub",
+                "texto": "ChefsClub"
+            }
+        },"tu": {
+            "android": {
+                "cpf": "57023986294",
+                "senha": "147258",
+                "oferta": "ChefsClub",
+                "texto": "ChefsClub"
+            },"ios": {
+                "cpf": "57023986294",
+                "senha": "147258",
+                "oferta": "ChefsClub",
+                "texto": "ChefsClub"
+            }
+        }
+    }
+  }
+]

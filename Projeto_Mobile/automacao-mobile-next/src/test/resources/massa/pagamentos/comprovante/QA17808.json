@@ -1,0 +1,47 @@
+[
+    {
+        "QA17808": {
+            "ti": {
+                "android": {
+                    "cpf": "90586790047",
+                    "senha": "147258",
+                    "codigoDeBarras": "85650000000-0 10040051411-1 51414277000-7 14411948512-2",
+                    "dataVencimento": "",
+                    "dataPagamento":"",
+                    "banco":"",
+                    "valor":"10,04",
+                    "descricao":"GARE 120"
+                },"ios": {
+                    "cpf": "90586790047",
+                    "senha": "147258",
+                    "codigoDeBarras": "85650000000-0 10040051411-1 51414277000-7 14411948512-2",
+                    "dataVencimento": "",
+                    "dataPagamento":"",
+                    "banco":"",
+                    "valor":"10,04",
+                    "descricao":"GARE 120"
+                }
+            },"tu": {
+                "android": {
+                    "cpf": "90586790047",
+                    "senha": "147258",
+                    "codigoDeBarras": "85650000000-0 10040051411-1 51414277000-7 14411948512-2",
+                    "dataVencimento": "",
+                    "dataPagamento":"",
+                    "banco":"",
+                    "valor":"10,04",
+                    "descricao":"GARE 120"
+                },"ios": {
+                    "cpf": "90586790047",
+                    "senha": "147258",
+                    "codigoDeBarras": "85650000000-0 10040051411-1 51414277000-7 14411948512-2",
+                    "dataVencimento": "",
+                    "dataPagamento":"",
+                    "banco":"",
+                    "valor":"10,04",
+                    "descricao":"GARE 120"
+                }
+            }
+        }
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "QA02874": {
+            "ti": {
+                "android": {
+                    "cpf": "56579888504",
+                    "senha": "147258",
+                    "codigoBarras": "23792 . 62203 92102 . 111017 52000 . 557703 1 92160000010000",
+                    "favorecidoInstituicao": "BANCO BRADESCO S.A.",
+                    "vencimento": "31/12/2022",
+                    "descricao": "PAGTO BOLETO BRAD CC",
+                    "valor": "100,00"
+                },"ios": {
+                    "cpf": "56579888504",
+                    "senha": "147258",
+                    "codigoBarras": "23792 . 62203 92102 . 111017 37000 . 557704 6 92160000010000",
+                    "favorecidoInstituicao": "BANCO BRADESCO S.A.",
+                    "vencimento": "31/12/2022",
+                    "descricao": "PAGTO BOLETO BRAD CC",
+                    "valor": "100,00"
+                }
+            },"tu": {
+                "android": {
+                    "cpf": "56579888504",
+                    "senha": "147258",
+                    "codigoBarras": "23792 . 62203 92010 . 314125 55000 . 557706 9 88540000010000",
+                    "favorecidoInstituicao": "BANCO BRADESCO S.A.",
+                    "vencimento": "03/01/2022",
+                    "descricao": "PAGTO BOLETO BRAD CC",
+                    "valor": "100,00"
+                },"ios": {
+                    "cpf": "56579888504",
+                    "senha": "147258",
+                    "codigoBarras": "23792 . 62203 92010 . 314125 55000 . 557706 9 88540000010000",
+                    "favorecidoInstituicao": "BANCO BRADESCO S.A.",
+                    "vencimento": "03/01/2022",
+                    "descricao": "PAGTO BOLETO BRAD CC",
+                    "valor": "100,00"
+                }
+            }
+        }
+    }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "QA18399": {
+        "ti": {
+            "android": {
+                "criarMassaAutomatica": true,
+                "cpfResponsavel1": "69742158002",
+                "cpfResponsavel2": "60974531243",
+                "cpfDependente": "10444544070",
+                "senha": "147258",
+                "nome": "Fulano Beltrano Junior",
+                "dataNasc": "11/09/2018",
+                "textoValidacao": "Quer salvar os dados que já preencheu até aqui",
+                "textoOkObrigado": "Pode terminar outra hora"
+            },
+            "ios": {
+                "criarMassaAutomatica": true,
+                "cpfResponsavel1": "02764050305",
+                "cpfResponsavel2": "59095305422",
+                "cpfDependente": "00121034038",
+                "senha": "147258",
+                "nome": "Fulano Beltrano Junior",
+                "dataNasc": "11/09/2018",
+                "textoValidacao": "Quer salvar os dados que preencheu até aqui",
+                "textoOkObrigado": "Pode terminar outra hora"
+            }
+        },
+        "tu": {
+            "android": {
+                "criarMassaAutomatica": true,
+                "cpfResponsavel1": "04659684067",
+                "cpfResponsavel2": "04659684067",
+                "cpfDependente": "73757201000",
+                "senha": "147258",
+                "nome": "Fulano Beltrano Junior",
+                "dataNasc": "11/09/2018",
+                "textoValidacao": "Quer salvar os dados que preencheu até aqui",
+                "textoOkObridado": "Pode terminar outra hora"
+            },
+            "ios": {
+                "criarMassaAutomatica": true,
+                "cpfResponsavel1": "04659684067",
+                "cpfResponsavel2": "04659684067",
+                "cpfDependente": "73757201000",
+                "senha": "147258",
+                "nome": "Fulano Beltrano Junior",
+                "dataNasc": "11/09/2018",
+                "textoValidacao": "Quer salvar os dados que preencheu até aqui",
+                "textoOkObridado": "Pode terminar outra hora"
+            }
+        }
+    }
+  }
+]

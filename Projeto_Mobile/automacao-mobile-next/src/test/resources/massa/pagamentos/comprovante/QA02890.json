@@ -1,0 +1,39 @@
+[
+    {
+        "QA02890": {
+            "ti": {
+                "android": {
+                    "cpf": "03437219375",
+                    "senha":"147258",
+                    "codigoBarras": "84600000001-4 00000024202-4 20926733174-0 21596569311-6",
+                    "favorecidoInstituicao": "ALGAR TELECOM FIX/MG",
+                    "descricao": "TESTE AGENDAMENTO CONTA CONSUMO",
+                    "valor": "30,00"
+                },"ios": {
+                    "cpf": "03437219375",
+                    "senha":"147258",
+                    "codigoBarras": "84680000000-8 30000004202-2 21016089642-4 23676338810-5",
+                    "favorecidoInstituicao": "ALGAR TELECOM FIX/MG",
+                    "descricao": "TESTE AGENDAMENTO CONTA CONSUMO",
+                    "valor": "30,00"
+                }
+            },"tu": {
+                "android": {
+                    "cpf": "33114682103",
+                    "senha":"147258",
+                    "codigoBarras": "83670000000-0 44520048100-7 14118431441-9 00137387950-9",
+                    "favorecidoInstituicao": "ENEL DISTRIBUIÇÃO/SP",
+                    "descricao": "Agendamento teste - Enel",
+                    "valor": "44,52"
+                },"ios": {
+                    "cpf": "33114682103",
+                    "senha":"147258",
+                    "codigoBarras": "83670000000-0 44520048100-7 14118431441-9 00137387950-9",
+                    "favorecidoInstituicao": "ENEL DISTRIBUIÇÃO/SP",
+                    "descricao": "Agendamento teste - Enel",
+                    "valor": "44,52"
+                }
+            }
+        }
+    }
+]

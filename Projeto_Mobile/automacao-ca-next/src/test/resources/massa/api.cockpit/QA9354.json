@@ -1,0 +1,18 @@
+[
+  {
+    "QA9354": {
+      "cpf": "33275743830",
+      "senha": "147258",
+      "validacaoResumoSaldo" : {
+          "account.corebankStatus" : 0,
+          "account.specificAccountBalances.availableForInvestments" : 0,
+          "account.specificAccountBalances.linkedBalance" : 0,
+          "account.specificAccountBalances.freeForMoviment" : 0
+      },
+      "validacaoLimites" : {
+          "limit.corebankStatus" : 422,
+          "limit.corebankMessage" : "9300/AGENCIA E CONTA NAO ENCONTRADA"
+      }
+    }
+  }
+]

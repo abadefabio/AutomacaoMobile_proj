@@ -1,0 +1,35 @@
+[
+  {
+    "QA21695": {
+        "ti": {
+            "android": {
+                "cpf": "80271732059",
+                "senha": "147258",
+                "valor": "1100000",
+                "nome": "bradesco mais de dez mil fr",
+                "TipoContaOrigem": "CONTA_CORRENTE"
+            },"ios": {
+                "cpf": "80271732059",
+                "senha": "147258",
+                "valor": "1100000",
+                "nome": "bradesco mais de dez mil fr",
+                "TipoContaOrigem": "CONTA_CORRENTE"
+            }
+        },"tu": {
+            "android": {
+                "cpf": "80271732059",
+                "senha": "147258",
+                "valor": "1100000",
+                "nome": "bradesco mais de dez mil fr",
+                "TipoContaOrigem": "CONTA_CORRENTE"
+                }
+            },"ios": {
+            "cpf": "80271732059",
+            "senha": "147258",
+            "valor": "1100000",
+            "nome": "bradesco mais de dez mil fr",
+            "TipoContaOrigem": "CONTA_CORRENTE"
+            }
+        }
+    }
+]

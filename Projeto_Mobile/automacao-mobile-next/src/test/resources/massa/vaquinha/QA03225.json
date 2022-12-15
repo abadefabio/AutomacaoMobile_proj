@@ -1,0 +1,75 @@
+[
+  {
+    "QA03225": {
+        "ti": {
+            "android": {
+                "cpf": "90343482100",
+                "senha": "147258",
+                "vaquinha": {
+                    "favorecidoCpf": "53975266228",
+                    "nomeVaquinha": "Cineminha",
+                    "nomeConvidado": "Fulano",
+                    "sobrenome": " da Silva",
+                    "valorVaquinha": "5000",
+                    "agencia": "3929",
+                    "conta": "145629",
+                    "banco": "next",
+                    "email": "teste@teste.com",
+                    "telefone": "11999999988"
+                }
+            },"ios": {
+                "cpf": "19671094007",
+                "senha": "147258",
+                "vaquinha": {
+                    "favorecidoCpf": "53975266228",
+                    "nomeVaquinha": "Cineminha",
+                    "nomeConvidado": "Fulano",
+                    "sobrenome": " da Silva",
+                    "valorVaquinha": "5000",
+                    "agencia": "3929",
+                    "conta": "145629",
+                    "banco": "next",
+                    "email": "teste@teste.com",
+                    "telefone": "11999999988"
+                }
+            }
+        },"tu": {
+            "android": {
+                "cpf": "19671094007",
+                "senha": "147258",
+                "vaquinha": {
+                    "favorecidoCpf": "94858217604",
+                    "nomeVaquinha": "QA00119",
+                    "nomeConvidado": "Fulano",
+                    "sobrenome": " da Silva",
+                    "valorVaquinha": "1000",
+                    "data": "29/08/2022",
+                    "agencia": "3750",
+                    "conta": "142859",
+                    "banco": "next",
+                    "email": "teste@teste.com",
+                    "telefone": "11999999988",
+                    "mensagemPush": "não aceitou a vaquinha"
+                }
+            },"ios": {
+                "cpf": "19671094007",
+                "senha": "147258",
+                "vaquinha": {
+                    "favorecidoCpf": "94858217604",
+                    "nomeVaquinha": "QA00119",
+                    "nomeConvidado": "Fulano",
+                    "sobrenome": " da Silva",
+                    "valorVaquinha": "1000",
+                    "data": "29/08/2022",
+                    "agencia": "3750",
+                    "conta": "142859",
+                    "banco": "next",
+                    "email": "teste@teste.com",
+                    "telefone": "11999999988",
+                    "mensagemPush": "não aceitou a vaquinha"
+                }
+            }
+        }
+    }
+  }
+]

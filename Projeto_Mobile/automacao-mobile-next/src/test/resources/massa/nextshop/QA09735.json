@@ -1,0 +1,47 @@
+[
+    {
+        "QA09735": {
+            "ti": {
+                "android": {
+                    "criarMassaAgora": true,
+                    "cpf": "35291091851",
+                    "senha": "147258",
+                    "nomeProduto": "nextShop005",
+                    "numeroCartaoCredito": "5332835884570141",
+                    "nomeCartaoCredito": "Cartao Valido Cliente",
+                    "dataExpiracaoCartaoCredito": "102030",
+                    "cvv": "214"
+                },"ios": {
+                    "criarMassaAgora": true,
+                    "cpf": "16005773852",
+                    "senha": "147258",
+                    "nomeProduto": "nextShop005",
+                    "numeroCartaoCredito": "5332835884570141",
+                    "nomeCartaoCredito": "Cartao Valido Cliente",
+                    "dataExpiracaoCartaoCredito": "102030",
+                    "cvv": "214"
+                }
+            },"tu": {
+                "android": {
+                    "criarMassaAgora": false,
+                    "cpf": "35291091851",
+                    "senha": "147258",
+                    "nomeProduto": "nextShop005",
+                    "numeroCartaoCredito": "5332835884570141",
+                    "nomeCartaoCredito": "Cartao Valido Cliente",
+                    "dataExpiracaoCartaoCredito": "102030",
+                    "cvv": "214"
+                },"ios": {
+                    "criarMassaAgora": false,
+                    "cpf": "16005773852",
+                    "senha": "147258",
+                    "nomeProduto": "nextShop005",
+                    "numeroCartaoCredito": "5332835884570141",
+                    "nomeCartaoCredito": "Cartao Valido Cliente",
+                    "dataExpiracaoCartaoCredito": "102030",
+                    "cvv": "214"
+                }
+            }
+        }
+    }
+]

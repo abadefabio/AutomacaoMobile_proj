@@ -1,0 +1,87 @@
+### Intellij ####
+# User stuff
+.idea/
+.idea/workspace.xml
+out/
+build/
+
+# Gradle
+.gradle/*
+/build/
+build.gradle
+gradle.properties
+
+# Gradle GUI config
+gradle-app.setting
+
+# avoid ignoring Gradle wrapper jar file
+!gradle-wrapper.jar
+xl
+# Project Cache
+.gradletasknamecache
+
+### Gradle Patch ###
+**/build/
+
+### Eclipse ###
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# sbteclipse plugin
+.target
+
+### Eclipse Patch ###
+# Eclipse br.com.next.automacao.core
+.project
+
+#JDT-specific (Eclipse Java Development Tools)
+.classpath
+
+### Allure Reports ###
+allure-results/
+
+### Arquivos de execução do TestNG ###
+src/test/resources/executores/*.xml
+src/test/resources/executores/*
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+.DS_Store

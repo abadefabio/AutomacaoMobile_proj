@@ -1,0 +1,31 @@
+[
+  {
+    "QA03087": {
+        "ti": {
+            "android": {
+                "cpf": "98483765004",
+                "senha": "147258",
+                "texto": "A",
+                "descricao": "XboxOne"
+            },"ios": {
+                "cpf": "98483765004",
+                "senha": "147258",
+                "texto": "A",
+                "descricao": "XboxOne"
+            }
+        },"tu": {
+            "android": {
+                "cpf": "98483765004",
+                "senha": "147258",
+                "texto": "A",
+                "descricao": "XboxOne"
+            },"ios": {
+                "cpf": "98483765004",
+                "senha": "147258",
+                "texto": "A",
+                "descricao": "XboxOne"
+            }
+        }
+    }
+  }
+]

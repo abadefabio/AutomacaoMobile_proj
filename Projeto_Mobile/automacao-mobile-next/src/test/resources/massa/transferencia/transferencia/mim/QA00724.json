@@ -1,0 +1,67 @@
+[
+  {
+    "QA00724": {
+        "ti": {
+            "android": {
+                "cpf": "25516848385",
+                "senha": "147258",
+                "contaPagamento": {
+                    "cpfConta": "25516848385",
+                    "nome": "Transferencia",
+                    "sobreNome": "DOC",
+                    "numeroBanco": "1",
+                    "banco:" : "BANCO DO BRASIL S.A",
+                    "agencia": "1382",
+                    "conta": "147478",
+                    "TipoContaOrigem": "CONTA_CORRENTE",
+                    "TipoContaDestino": "CONTA_CORRENTE"
+                }
+            },"ios": {
+                "cpf": "25516848385",
+                "senha": "147258",
+                "contaPagamento": {
+                    "cpfConta": "25516848385",
+                    "nome": "Transferencia",
+                    "sobreNome": "DOC",
+                    "numeroBanco": "1",
+                    "banco:" : "BANCO DO BRASIL S.A",
+                    "agencia": "1382",
+                    "conta": "147478",
+                    "TipoContaOrigem": "CONTA_CORRENTE",
+                    "TipoContaDestino": "CONTA_CORRENTE"
+                }
+            }
+        },"tu": {
+            "android": {
+                "cpf": "56351930138",
+                "senha": "147258",
+                "contaPagamento": {
+                    "cpfConta": "25516848385",
+                    "nome": "Transferencia",
+                    "sobreNome": "DOC",
+                    "numeroBanco": "1",
+                    "banco:" : "BANCO DO BRASIL S.A",
+                    "agencia": "1382",
+                    "conta": "147478",
+                    "TipoContaOrigem": "CONTA_CORRENTE",
+                    "TipoContaDestino": "CONTA_CORRENTE"
+                }
+            },"ios": {
+                "cpf": "25516848385",
+                "senha": "147258",
+                "contaPagamento": {
+                    "cpfConta": "25516848385",
+                    "nome": "Transferencia",
+                    "sobreNome": "DOC",
+                    "numeroBanco": "1",
+                    "banco:" : "BANCO DO BRASIL S.A",
+                    "agencia": "1382",
+                    "conta": "147478",
+                    "TipoContaOrigem": "CONTA_CORRENTE",
+                    "TipoContaDestino": "CONTA_CORRENTE"
+                }
+            }
+        }
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "QA03074": {
+        "ti": {
+            "android": {
+                "cpf": "62919392077",
+                "senha": "147258",
+                "categoria":"QAMIMOS",
+                "oferta": "Hotel Urbano",
+                "texto": "Teste QA - 3074"
+            },"ios": {
+                "cpf": "62919392077",
+                "senha": "147258",
+                "categoria":"QAMIMOS",
+                "oferta": "Hotel Urbano",
+                "texto": "Teste QA - 3074"
+            }
+        },"tu": {
+            "android": {
+                "cpf": "62919392077",
+                "senha": "147258",
+                "categoria":"Automação",
+                "oferta": "Teste QA - 3074",
+                "texto": "Teste QA - 3074"
+            },"ios": {
+                "cpf": "62919392077",
+                "senha": "147258",
+                "categoria":"Automação",
+                "oferta": "Teste QA - 3074",
+                "texto": "Teste QA - 3074"
+            }
+        }
+    }
+  }
+]

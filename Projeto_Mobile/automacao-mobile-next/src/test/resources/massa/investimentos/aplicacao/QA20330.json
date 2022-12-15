@@ -1,0 +1,35 @@
+[
+    {
+        "QA20330": {
+            "ti": {
+                "android": {
+                    "cpf": "76265569686",
+                    "senha": "147258",
+                    "produto": "next Alocação Arrojada",
+                    "valorAplicacao": "5000",
+                    "valorAplicacaoFormatado": "R$ 50,00"
+                },"ios": {
+                    "cpf": "10441537685",
+                    "senha": "147258",
+                    "produto": "next Alocação Arrojada",
+                    "valorAplicacao": "5000",
+                    "valorAplicacaoFormatado": "R$ 50,00"
+                }
+            },"tu": {
+                "android": {
+                    "cpf": "",
+                    "senha": "147258",
+                    "valorAbaixoPermitido": "1",
+                    "valorAplicacao": "5000",
+                    "valorAplicacaoFormatado": "R$ 50,00"
+                },"ios": {
+                    "cpf": "",
+                    "senha": "147258",
+                    "valorAbaixoPermitido": "1",
+                    "valorAplicacao": "5000",
+                    "valorAplicacaoFormatado": "R$ 50,00"
+                }
+            }
+        }
+    }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "QA03142": {
+        "ti": {
+            "android": {
+                "cpf": "53601665255",
+                "senha": "147258",
+                "nomeObjetivo": "FR casa"
+            },
+            "ios": {
+                "cpf": "96491334457",
+                "senha": "147258",
+                "nomeObjetivo": "FR casa"
+            }
+        },"tu": {
+            "android": {
+                "cpf": "53601665255",
+                "senha": "147258",
+                "nomeObjetivo": "FR casa"
+            },
+            "ios": {
+                "cpf": "53601665255",
+                "senha": "147258",
+                "nomeObjetivo": "FR casa"
+            }
+        }
+    }
+  }
+]

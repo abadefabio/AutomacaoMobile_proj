@@ -1,0 +1,29 @@
+[
+    {
+        "QA03410": {
+            "ti": {
+                "android": {
+                    "cpf": "74171935873",
+                    "senha": "147258",
+                    "senhaCartao": "246379",
+                    "confirmarSenhaCartao": "246379",
+                    "pacotePadronizado": "PACOTE PADRONIZADO IV"
+                },"ios": {
+                    "cpf": "74171935873",
+                    "senha": "147258",
+                    "senhaCartao": "246379",
+                    "confirmarSenhaCartao": "246379",
+                    "pacotePadronizado": "PACOTE PADRONIZADO IV"
+                }
+            },"tu": {
+                "android": {
+                    "cpf": "55835541856",
+                    "senha": "147258"
+                },"ios": {
+                    "cpf": "55835541856",
+                    "senha": "147258"
+                }
+            }
+        }
+    }
+]

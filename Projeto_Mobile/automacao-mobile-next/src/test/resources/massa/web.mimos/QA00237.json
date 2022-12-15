@@ -1,0 +1,21 @@
+[
+  {
+    "QA00237" :
+        {
+          "loginGestao" : "I901001",
+          "senhaGestao" : "teste050",
+          "ofertaNome" : "Teste QA - 237",
+          "categoria" : "Automação",
+          "parceiro" : "Hotel Urbano",
+          "texto": "teste teste teste",
+          "pathArquivoImagem": "C:\\Users\\Public\\Documents\\Projetos\\config\\png-Uranus2.png",
+          "beneficio" : "Teste Benefício",
+          "formaDePagamento": "Cartão de crédito",
+          "comoUsar": "Essa é uma oferta criada para teste de automação e será utilizada dentro do cenário",
+          "valor": "5",
+          "nomeBotao": "Teste QA - 237",
+          "url": "https://zazcar.com.br/mapa",
+          "pathArquivoVoucher": "C:\\Users\\Public\\Documents\\Projetos\\config\\Tab_Voucher - 18.csv"
+        }
+  }
+]

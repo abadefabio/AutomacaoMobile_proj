@@ -1,0 +1,31 @@
+[
+    {
+        "QA04282": {
+            "ti": {
+                "android": {
+                    "cpf": "33855222266",
+                    "senha": "147258",
+                    "deepLink": "next://centralDeNotificacoes",
+                    "textoDeepLink": "Notificações"
+                },"ios":{
+                    "cpf": "11189357135",
+                    "senha": "147258",
+                    "deepLink": "next://centralDeNotificacoes",
+                    "textoDeepLink": "Notificações"
+                }
+            },"tu": {
+                "android": {
+                    "cpf": "11189357135",
+                    "senha": "147258",
+                    "deepLink": "next://centralDeNotificacoes",
+                    "textoDeepLink": "Notificações"
+                },"ios":{
+                    "cpf": "11189357135",
+                    "senha": "147258",
+                    "deepLink": "next://centralDeNotificacoes",
+                    "textoDeepLink": "Notificações"
+                }
+            }
+        }
+    }
+]

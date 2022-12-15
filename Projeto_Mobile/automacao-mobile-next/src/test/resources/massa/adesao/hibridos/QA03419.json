@@ -1,0 +1,32 @@
+[
+  {
+    "QA03419": {
+        "ti": {
+            "android": {
+                "cpf": "11296183157",
+                "senha": "147258",
+                "dominioUsuarioEmail": "corpd/I908989",
+                "senhaEmail": "teste05"
+            },"ios": {
+                "cpf": "61484948092",
+                "senha": "147258",
+                "dominioUsuarioEmail": "corpd/I908989",
+                "senhaEmail": "teste05"
+            }
+        },"tu": {
+            "android": {
+                "cpf": "58092217424",
+                "senha": "147258",
+                "dominioUsuarioEmail": "corpd/I908989",
+                "senhaEmail": "teste11"
+            },"ios": {
+                "cpf": "58092217424",
+                "senha": "147258",
+                "dominioUsuarioEmail": "corpd/I908989",
+                "senhaEmail": "teste11"
+            }
+        }
+    }
+  }
+]
+

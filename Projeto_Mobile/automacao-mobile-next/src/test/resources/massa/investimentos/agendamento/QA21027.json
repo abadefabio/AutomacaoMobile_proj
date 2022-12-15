@@ -1,0 +1,31 @@
+[
+    {
+        "QA21027": {
+            "ti": {
+                "android": {
+                    "cpf": "55326222990",
+                    "senha": "147258",
+                    "valor": "1111",
+                    "dataCriacaoAgendamento": "24/10/22"
+                },"ios": {
+                    "cpf": "55326222990",
+                    "senha": "147258",
+                    "valor": "1111",
+                    "dataCriacaoAgendamento": "24/10/22"
+                }
+            },"tu": {
+                "android": {
+                    "cpf": "61784570222",
+                    "senha": "147258",
+                    "valor": "1000",
+                    "dataCriacaoAgendamento": "24/10/22"
+                },"ios": {
+                    "cpf": "61784570222",
+                    "senha": "147258",
+                    "valor": "1000",
+                    "dataCriacaoAgendamento": "24/10/22"
+                }
+            }
+        }
+    }
+]

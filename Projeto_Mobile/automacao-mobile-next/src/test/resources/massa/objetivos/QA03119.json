@@ -1,0 +1,34 @@
+[
+    {
+        "QA03119": {
+            "ti": {
+                "android": {
+                    "cpf": "38460837475",
+                    "senha": "147258",
+                    "nomeObjetivo": "FR casa",
+                    "nomeCaracteresEspeciais": "!%fr*@"
+                },
+                "ios": {
+                    "cpf": "58171584420",
+                    "senha": "147258",
+                    "nomeObjetivo": "FR casa",
+                    "nomeCaracteresEspeciais": "!%fr*@"
+                }
+            },
+            "tu": {
+                "android": {
+                    "cpf": "58171584420",
+                    "senha": "147258",
+                    "nomeObjetivo": "FR casa",
+                    "nomeCaracteresEspeciais": "!%fr*@"
+                },
+                "ios": {
+                    "cpf": "58171584420",
+                    "senha": "147258",
+                    "nomeObjetivo": "FR casa",
+                    "nomeCaracteresEspeciais": "!%fr*@"
+                }
+            }
+        }
+    }
+]

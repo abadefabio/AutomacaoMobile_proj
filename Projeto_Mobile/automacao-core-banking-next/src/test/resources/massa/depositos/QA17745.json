@@ -1,0 +1,14 @@
+[
+    {
+        "QA17745" : {
+            "cpf": "59476725702",
+            "dataInicioVigencia": "2021-09-03",
+            "quantidadeDiasMinimoInclusao": 1,
+            "quantidadeDiasMaximoInclusao": 365,
+            "horarioInicialInclusao": "00:00:01",
+            "horarioFimInclusao": "20:00:00",
+            "valorMinimoProvisao": 50000.0,
+            "valorMaximoProvisao": 9999999.9
+        }
+    }
+]

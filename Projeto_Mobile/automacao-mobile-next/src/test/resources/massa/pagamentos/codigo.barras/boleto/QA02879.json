@@ -1,0 +1,47 @@
+[
+    {
+        "QA02879": {
+            "ti": {
+                "android": {
+                    "cpf": "93386334466",
+                    "senha": "147258",
+                    "codigoDeBarras": "10493 . 39573 82000 . 100048 00000 . 067991 1 12010000001345",
+                    "dataVencimento": "",
+                    "dataPagamento":"",
+                    "banco":"",
+                    "valor":"13,45",
+                    "descricao":"Pagamento FR"
+                },"ios": {
+                    "cpf": "93386334466",
+                    "senha": "147258",
+                    "codigoDeBarras": "10493 . 39573 82000 . 100048 00000 . 149708 7 99490000001345",
+                    "dataVencimento": "",
+                    "dataPagamento":"",
+                    "banco":"",
+                    "valor":"13,45",
+                    "descricao":"Pagamento FR"
+                }
+            },"tu": {
+                "android": {
+                    "cpf": "93386334466",
+                    "senha": "147258",
+                    "codigoDeBarras": "00392 . 02114 22917 . 055539 97429 . 999903 2 92160000010000",
+                    "dataVencimento": "",
+                    "dataPagamento":"",
+                    "banco":"",
+                    "valor":"100,00",
+                    "descricao":"Pagamento FR"
+                },"ios": {
+                    "cpf": "93386334466",
+                    "senha": "147258",
+                    "codigoDeBarras": "00392 . 02114 22917 . 055539 97429 . 999903 2 92160000010000",
+                    "dataVencimento": "",
+                    "dataPagamento":"",
+                    "banco":"",
+                    "valor":"100,00",
+                    "descricao":"Pagamento FR"
+                }
+            }
+        }
+    }
+]

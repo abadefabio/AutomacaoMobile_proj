@@ -1,0 +1,27 @@
+[
+    {
+        "QA9528": {
+            "cpf": "87158532097",
+            "validacaoVisao360" : {
+                "proposalData.listOfproducts[1].productDescription" : "Cesta Next",
+                "proposalData.listOfproducts[0].productDescription" : "Visa Débito",
+                "name" : "FRANCIELE MATOS",
+                "fatherName": "ANTONY KIEDS",
+                "email" : "REMETENTE.VALIDACAO@CORPRD.BRADESCO.COM.BR",
+                "dateOfBirth" : "2009-08-08",
+                "customerTypeDescription" : "Next Magia",
+                "onboardingStatus" : 5,
+                "age" : 12,
+                "gender" : "M"
+            },
+            "validacaoEndereco" : {
+                "addresses.streetName[0]" : "AV JOAO VENTURA DOS SANTOS",
+                "addresses.streetNumber[0]" : "7",
+                "addresses.neighbourhood[0]" : "BARONESA",
+                "addresses.cityName[0]" : "OSASCO",
+                "addresses.state[0]" : "SP",
+                "addresses.postalCode[0]" : "06263100"
+            }
+        }
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "QA04277": {
+            "ti": {
+                "android": {
+                    "cpf": "38325525533",
+                    "senha": "147258",
+                    "deepLink": "next://cartao",
+                    "textoDeepLink": "Cartão"
+                },"ios": {
+                    "cpf": "38325525533",
+                    "senha": "147258",
+                    "deepLink": "next://cartao",
+                    "textoDeepLink": "Cartão"
+                }
+            },"tu": {
+                "android": {
+                    "cpf": "38325525533",
+                    "senha": "147258",
+                    "deepLink": "next://cartao",
+                    "textoDeepLink": "Cartão"
+                },"ios": {
+                    "cpf": "38325525533",
+                    "senha": "147258",
+                    "deepLink": "next://cartao",
+                    "textoDeepLink": "Cartão"
+                }
+            }
+
+        }
+    }
+]

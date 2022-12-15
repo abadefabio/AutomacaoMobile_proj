@@ -1,0 +1,32 @@
+[
+    {
+        "QA04288": {
+            "ti": {
+                "android": {
+                    "cpf": "31356683550",
+                    "senha": "147258",
+                    "deepLink": "next://recargaDeCelular",
+                    "textoDeepLink": "Recarga de celular"
+                },"ios": {
+                    "cpf": "31356683550",
+                    "senha": "147258",
+                    "deepLink": "next://recargaDeCelular",
+                    "textoDeepLink": "Recarga de celular"
+                }
+            },"tu": {
+                "android": {
+                    "cpf": "31356683550",
+                    "senha": "147258",
+                    "deepLink": "next://recargaDeCelular",
+                    "textoDeepLink": "Recarga de celular"
+                },"ios": {
+                    "cpf": "31356683550",
+                    "senha": "147258",
+                    "deepLink": "next://recargaDeCelular",
+                    "textoDeepLink": "Recarga de celular"
+                }
+            }
+
+        }
+    }
+]

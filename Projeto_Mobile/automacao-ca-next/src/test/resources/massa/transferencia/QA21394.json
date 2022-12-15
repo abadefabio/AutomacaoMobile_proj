@@ -1,0 +1,96 @@
+[
+    {
+        "QA21394": {
+            "instancia": [
+                {
+                    "squad": "@contingencia",
+                    "tags": "@com-reset-app",
+                    "tu": {
+                        "cpf": "96952518037",
+                        "senha": "147258",
+                        "objeto": {
+                            "nome": "FULANO BELTRANO DA SILVA",
+                            "agencia": "1382",
+                            "conta": "100072",
+                            "de": "Você",
+                            "para": "NOME TESTE 1382 0010007 04564881",
+                            "destino": "Conta-Corrente",
+                            "origem": "Conta-Corrente",
+                            "valorTransferir": "100,00",
+                            "tipoConta": "Conta-Corrente",
+                            "nomeTransferencia": "Teste",
+                            "confereValor": "R$ 100,00",
+                            "finalidadeVerificacao": "Crédito em Conta Corrente",
+                            "banco": "Banco Bradesco S.A.",
+                            "bankId": "237"
+                        }
+                    },
+                    "ti": {
+                        "cpf": "96952518037",
+                        "senha": "147258",
+                        "objeto": {
+                            "nome": "FULANO BELTRANO DA SILVA",
+                            "agencia": "1382",
+                            "conta": "100072",
+                            "de": "Você",
+                            "para": "NOME TESTE 1382 0010007 04564881",
+                            "destino": "Conta-Corrente",
+                            "origem": "Conta-Corrente",
+                            "valorTransferir": "100,00",
+                            "tipoConta": "Conta-Corrente",
+                            "nomeTransferencia": "Teste",
+                            "confereValor": "R$ 100,00",
+                            "finalidadeVerificacao": "Crédito em Conta Corrente",
+                            "banco": "Banco Bradesco S.A.",
+                            "bankId": "237"
+                        }
+                    }
+                },
+                {
+                    "squad": "@contingencia",
+                    "tags": "@sem-reset-app",
+                    "tu": {
+                        "cpf": "96952518037",
+                        "senha": "147258",
+                        "objeto": {
+                            "nome": "FULANO BELTRANO DA SILVA",
+                            "agencia": "1382",
+                            "conta": "100072",
+                            "de": "Você",
+                            "para": "NOME TESTE 1382 0010007 04564881",
+                            "destino": "Conta-Corrente",
+                            "origem": "Conta-Corrente",
+                            "valorTransferir": "100,00",
+                            "tipoConta": "Conta-Corrente",
+                            "nomeTransferencia": "Teste",
+                            "confereValor": "R$ 100,00",
+                            "finalidadeVerificacao": "Crédito em Conta Corrente",
+                            "banco": "Banco Bradesco S.A.",
+                            "bankId": "237"
+                        }
+                    },
+                    "ti": {
+                        "cpf": "96952518037",
+                        "senha": "147258",
+                        "objeto": {
+                            "nome": "FULANO BELTRANO DA SILVA",
+                            "agencia": "1382",
+                            "conta": "100072",
+                            "de": "Você",
+                            "para": "NOME TESTE 1382 0010007 04564881",
+                            "destino": "Conta-Corrente",
+                            "origem": "Conta-Corrente",
+                            "valorTransferir": "100,00",
+                            "tipoConta": "Conta-Corrente",
+                            "nomeTransferencia": "Teste",
+                            "confereValor": "R$ 100,00",
+                            "finalidadeVerificacao": "Crédito em Conta Corrente",
+                            "banco": "Banco Bradesco S.A.",
+                            "bankId": "237"
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

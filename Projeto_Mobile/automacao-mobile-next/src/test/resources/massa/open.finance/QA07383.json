@@ -1,0 +1,27 @@
+[
+    {
+        "QA07383": {
+            "ti": {
+                "android": {
+                    "criarMassaAgora": true,
+                    "cpf": "18459777006",
+                    "senha": "147258"
+                },"ios": {
+                    "criarMassaAgora": true,
+                    "cpf": "68642891254",
+                    "senha": "147258"
+                }
+            },"tu": {
+                "android": {
+                    "criarMassaAgora": false,
+                    "cpf": "66990133430",
+                    "senha": "147258"
+                },"ios": {
+                    "criarMassaAgora": false,
+                    "cpf": "66990133430",
+                    "senha": "147258"
+                }
+            }
+        }
+    }
+]

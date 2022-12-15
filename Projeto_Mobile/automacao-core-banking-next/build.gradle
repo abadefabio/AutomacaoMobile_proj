@@ -1,0 +1,159 @@
+buildscript {
+    apply from: 'variables.gradle'
+    repositories {
+        maven {
+            name = 'nexus'
+            url nexusUrlQa
+            credentials {
+                username nexusUser
+                password nexusPassword
+            }
+        }
+        maven {
+            name = 'nexus-qa'
+            url nexusUrl
+            credentials {
+                username nexusUser
+                password nexusPassword
+            }
+        }
+    }
+    dependencies {
+        classpath "io.qameta.allure:allure-gradle:2.3"
+    }
+}
+
+plugins {
+    id 'java'
+}
+
+apply plugin: 'maven'
+apply plugin: 'io.qameta.allure'
+
+allure {
+    autoconfigure = false
+    version = '2.2.1'
+    reportDir = file('build/allure-results')
+}
+
+
+group 'com.next'
+version '1.0'
+
+sourceCompatibility = 11
+
+repositories {
+    apply from: "variables.gradle"
+    maven {
+        name = 'nexus'
+        url nexusUrl
+        credentials {
+            username nexusUser
+            password nexusPassword
+        }
+    }
+    maven {
+        name = 'nexus-qa'
+        url nexusUrlQa
+        credentials {
+            username nexusUser
+            password nexusPassword
+        }
+    }
+}
+
+sourceSets {
+    test {
+        java {
+            srcDirs = ['src/test/java']
+        }
+        resources {
+            srcDirs = ['src/test/resources']
+        }
+    }
+}
+
+ext {
+    gsonVersion = '2.8.6'
+    commonVersion = '2.5.0.redhat-3'
+    appiumVersion = '7.5.1'
+    seleniumVersion = '3.6.0'
+    testNGVersion = '7.4.0'
+    allureReportsVersion = '2.13.8'
+    restAssuredVersion = '4.3.3'
+    schemaValidatorVersion = '3.3.0'
+    jsonSimpleVersion = '1.1.1'
+    pdfBoxVersion = '2.0.14'
+    jasperVersion = '6.16.0'
+    jasperFontsVersion = '6.16.0'
+    lowagieVersion = '2.1.7'
+    hamcrestVersion = '1.3'
+    zxingVersion = '3.4.1'
+    oracleJDBCVersion = '19.3.0.0'
+    apachePoiVersion = '5.0.0'
+    cucumberVersion = '6.9.1'
+    driverManagerVersion = '5.0.3'
+    lombokVersion = '1.18.22'
+    frameworkVersion = '4.4.1'
+    okhttpVersion = '2.5.0'
+    gsonFireVersion = '1.7.1'
+    portalMassasClientVersion = '2.14.2'
+}
+
+test {
+    useTestNG() {
+        suites 'src/test/resources/executores/Teste.xml'
+    }
+    systemProperty "file.encoding", "Cp1252"
+}
+
+compileJava {
+    options.encoding = "Cp1252"
+}
+tasks.withType(JavaCompile)
+        {
+            options.encoding = 'Cp1252'
+        }
+compileTestJava {
+    options.encoding = "Cp1252"
+}
+dependencies {
+    compile group: 'com.google.code.gson', name: 'gson', version: "$gsonVersion"
+    compile group: 'commons-io', name: 'commons-io', version: "$commonVersion"
+    compile group: 'io.appium', name: 'java-client', version: "$appiumVersion"
+    compile group: 'org.seleniumhq.selenium', name: 'selenium-java', version: "$seleniumVersion"
+    compile group: 'org.testng', name: 'testng', version: "$testNGVersion"
+    compile group: 'io.rest-assured', name: 'json-schema-validator', version: "$schemaValidatorVersion"
+    compile group: 'io.rest-assured', name: 'rest-assured', version: "$restAssuredVersion"
+    compile group: 'io.qameta.allure', name: 'allure-testng', version: "$allureReportsVersion"
+    compile group: 'com.googlecode.json-simple', name: 'json-simple', version: "$jsonSimpleVersion"
+    compile group: 'org.apache.pdfbox', name: 'pdfbox', version: "$pdfBoxVersion"
+    compile group: 'net.sf.jasperreports', name: 'jasperreports', version: "$jasperVersion"
+    compile group: 'net.sf.jasperreports', name: 'jasperreports-fonts', version: "$jasperFontsVersion"
+    compile group: 'com.lowagie', name: 'itext', version: "$lowagieVersion"
+    compile group: 'org.hamcrest', name: 'hamcrest-all', version: "$hamcrestVersion"
+    compile group: 'com.google.zxing', name: 'javase', version: "$zxingVersion"
+    compile group: 'com.google.zxing', name: 'core', version: "$zxingVersion"
+    compile group: 'com.oracle.ojdbc', name: 'ojdbc8', version: "$oracleJDBCVersion"
+    compile group: 'org.apache.poi', name: 'poi', version: "$apachePoiVersion"
+    compile group: 'org.apache.poi', name: 'poi-ooxml', version: "$apachePoiVersion"
+    compile group: 'io.cucumber', name: 'cucumber-java', version: "$cucumberVersion"
+    compile group: 'io.cucumber', name: 'cucumber-core', version: "$cucumberVersion"
+    compile group: 'io.cucumber', name: 'cucumber-testng', version: "$cucumberVersion"
+    compile group: 'io.github.bonigarcia', name: 'webdrivermanager', version: "$driverManagerVersion"
+    annotationProcessor group: 'org.projectlombok', name: 'lombok', version: "$lombokVersion"
+    compileOnly group: 'org.projectlombok', name: 'lombok', version: "$lombokVersion"
+    compile group: 'br.com.next.automacao', name: 'automacao-framework', version: "$frameworkVersion"
+    compile group: 'br.com.bradesco.next', name: 'next-test-data-provider-client-api', version: "$portalMassasClientVersion"
+    compile group: 'com.squareup.okhttp', name: 'okhttp', version: "$okhttpVersion"
+    compile group: 'io.gsonfire', name: 'gson-fire', version: "$gsonFireVersion"
+
+}
+
+task generateSettingsFile(type: JavaExec) {
+    group = "configure project"
+    description 'Criar/Validar arquivo configuracoes.properties'
+    classpath = sourceSets.main.runtimeClasspath
+    main = "br.com.next.automacao.core.tools.configuracao.ApplicationConfigureFile"
+}
+

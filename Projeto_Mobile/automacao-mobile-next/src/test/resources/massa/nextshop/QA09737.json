@@ -1,0 +1,35 @@
+[
+    {
+        "QA09737": {
+            "ti": {
+                "android": {
+                    "criarMassaAgora": true,
+                    "cpf": "66990133430",
+                    "senha": "147258",
+                    "nomeProdutoVtex": "camiseta life",
+                    "nomeProduto": "camiseta manga curta"
+                },"ios": {
+                    "criarMassaAgora": true,
+                    "cpf": "66990133430",
+                    "senha": "147258",
+                    "nomeProdutoVtex": "camiseta life",
+                    "nomeProduto": "camiseta manga curta"
+                }
+            },"tu": {
+                "android": {
+                    "criarMassaAgora": false,
+                    "cpf": "66990133430",
+                    "senha": "147258",
+                    "nomeProdutoVtex": "camiseta life",
+                    "nomeProduto": "camiseta manga curta"
+                },"ios": {
+                    "criarMassaAgora": false,
+                    "cpf": "66990133430",
+                    "senha": "147258",
+                    "nomeProdutoVtex": "camiseta life",
+                    "nomeProduto": "camiseta manga curta"
+                }
+            }
+        }
+    }
+]

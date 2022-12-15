@@ -1,0 +1,47 @@
+[
+    {
+        "QA02990": {
+            "ti": {
+                "android": {
+                    "cpf": "49201459343",
+                    "senha": "147258",
+                    "renavam": "1121090394",
+                    "estado": "São Paulo",
+                    "tipoDebito": "Débitos via Renavam",
+                    "tipoPagamento": "licenciamento",
+                    "tipoConta": "Conta-Corrente",
+                    "renavamJaUtilizado": "1121090394"
+                },"ios": {
+                    "cpf": "49201459343",
+                    "senha": "147258",
+                    "renavam": "1121090394",
+                    "estado": "São Paulo",
+                    "tipoDebito": "Débitos via Renavam",
+                    "tipoPagamento": "licenciamento",
+                    "tipoConta": "Conta-Corrente",
+                    "renavamJaUtilizado": "1121090394"
+                }
+            },"tu": {
+                "android": {
+                    "cpf": "49201459343",
+                    "senha": "147258",
+                    "renavam": "1121090394",
+                    "estado": "São Paulo",
+                    "tipoDebito": "Débitos via Renavam",
+                    "tipoPagamento": "licenciamento",
+                    "tipoConta": "Conta-Corrente",
+                    "renavamJaUtilizado": "1121090394"
+                },"ios": {
+                    "cpf": "49201459343",
+                    "senha": "147258",
+                    "renavam": "1121090394",
+                    "estado": "São Paulo",
+                    "tipoDebito": "Débitos via Renavam",
+                    "tipoPagamento": "licenciamento",
+                    "tipoConta": "Conta-Corrente",
+                    "renavamJaUtilizado": "1121090394"
+                }
+            }
+        }
+    }
+]

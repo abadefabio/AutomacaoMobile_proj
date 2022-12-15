@@ -1,0 +1,48 @@
+[
+    {
+        "QA02988": {
+            "ti": {
+                "android": {
+                    "cpf": "71727564600",
+                    "senha": "147258",
+                    "renavam": "1121090394",
+                    "estado": "São Paulo",
+                    "tipoDebito": "Débitos via Renavam",
+                    "tipoPagamento": "IPVA_Atual",
+                    "tipoConta": "Conta-Corrente",
+                    "renavamDois": "01089272305"
+                },"ios": {
+                    "cpf": "71727564600",
+                    "senha": "147258",
+                    "renavam": "1121090394",
+                    "estado": "São Paulo",
+                    "tipoDebito": "Débitos via Renavam",
+                    "tipoPagamento": "IPVA_Atual",
+                    "tipoConta": "Conta-Corrente",
+                    "renavamDois": "01089272305"
+                }
+            },"tu": {
+                "android": {
+                    "cpf": "71727564600",
+                    "senha": "147258",
+                    "renavam": "1121090394",
+                    "estado": "São Paulo",
+                    "tipoDebito": "Débitos via Renavam",
+                    "tipoPagamento": "IPVA_Atual",
+                    "tipoConta": "Conta-Corrente",
+                    "renavamDois": "01089272305"
+                },"ios": {
+                    "cpf": "71727564600",
+                    "senha": "147258",
+                    "renavam": "1121090394",
+                    "estado": "São Paulo",
+                    "tipoDebito": "Débitos via Renavam",
+                    "tipoPagamento": "IPVA_Atual",
+                    "tipoConta": "Conta-Corrente",
+                    "renavamDois": "01089272305"
+                }
+            }
+
+        }
+    }
+]

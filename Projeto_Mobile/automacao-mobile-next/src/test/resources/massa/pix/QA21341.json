@@ -1,0 +1,46 @@
+[
+    {
+        "QA21341": {
+            "ti": {
+                "android": {
+                    "cpf": "92577330332",
+                    "senha": "147258",
+                    "codigoPagamentoPix": "00020101021226880014BR.GOV.BCB.PIX2566qrpix-h.bradesco.com.br/qr/v2/368c27bb-0fb6-4c06-947a-d7afd4a8e11f5204000053039865406170.005802BR5924FULANO BELTRANO DA SILVA6009SAO PAULO62070503***6304D2FE",
+                    "validarDados": {
+                        "Valor": "R$ 170,00",
+                        "Data de expiração": "26/10/2022"
+                    }
+                },
+                "ios": {
+                    "cpf": "92577330332",
+                    "senha": "147258",
+                    "codigoPagamentoPix": "00020101021226880014BR.GOV.BCB.PIX2566qrpix-h.bradesco.com.br/qr/v2/4e5314cb-c314-41a6-ae38-47704ea7d2c05204000053039865406170.005802BR5924FULANO BELTRANO DA SILVA6009SAO PAULO62070503***6304DA14",
+                    "validarDados": {
+                        "Valor": "R$ 170,00",
+                        "Data de expiração": "27/10/2022"
+                    }
+                }
+            },
+            "tu": {
+                "android": {
+                    "cpf": "93857358459",
+                    "senha": "147258",
+                    "codigoPagamentoPix": "00020101021226930014BR.GOV.BCB.PIX2571qrpix-h.bradesco.com.br/qr/v2/cobv/1325739f-573a-44d8-be10-da78409904c25204000053039865406200.005802BR5914FAZ O SEU TRES6008CAMPINAS62070503***63045B2B",
+                    "validarDados": {
+                        "Valor": "R$ 170,00",
+                        "Data de expiração": "30/12/2022"
+                    }
+                },
+                "ios": {
+                    "cpf": "93857358459",
+                    "senha": "147258",
+                    "codigoPagamentoPix": "00020101021226930014BR.GOV.BCB.PIX2571qrpix-h.bradesco.com.br/qr/v2/cobv/5069134b-ad4c-4b81-80ae-0f8081ec05095204000053039865406200.005802BR5914FAZ O SEU TRES6008CAMPINAS62070503***6304E48E",
+                    "validarDados": {
+                        "Valor": "R$ 170,00",
+                        "Data de expiração": "30/12/2022"
+                    }
+                }
+            }
+        }
+    }
+]

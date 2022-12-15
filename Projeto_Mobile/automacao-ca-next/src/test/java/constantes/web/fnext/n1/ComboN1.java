@@ -1,0 +1,51 @@
+package constantes.web.fnext.n1;
+
+import br.com.next.automacao.core.tools.Utilitarios;
+
+public interface ComboN1 {
+
+    String APROVADO = "APROVADO";
+    String APROVADO_COM_PENDENCIA = "APROVADO COM PENDÊNCIA";
+    String RECUSADO = "RECUSADO";
+
+    String CPFDIVERGE = "CPF DIVERGE DA RECEITA FEDERAL";
+    String MENORDE18ANOS = "MENOR DE 18 ANOS";
+    String SOLICITACAODONEGOCIO = "SOLICITAÇÃO DO NEGÓCIO";
+    String SOLICITACAODOCLIENTE = "SOLICITAÇÃO DO CLIENTE";
+    String ANALFABETO = "ANALFABETO";
+    String DOCUMENTO_RESP_IRREGULAR = "DOCUMENTO DO RESPONSÁVEL IRREGULAR (REINCIDÊNCIA)";
+    String SUSPEITA_DE_FRAUDE = "SUSPEITA DE FRAUDE";
+
+    String CPFDIVERGEJOYII_RESPONSAVEL = "CPF DIVERGE DA RECEITA FEDERAL - RESPONSÁVEL";
+    String CPF_DIVERGE_DA_RECEITA_FEDERAL_DEPENDENTE = "CPF DIVERGE DA RECEITA FEDERAL - DEPENDENTE";
+    String MENOR_DE_18_ANOS_RESPONSÁVEL = "MENOR DE 18 ANOS - RESPONSÁVEL";
+    String DOCUMENTO_ESTRANGEIRO = "DOCUMENTO ESTRANGEIRO";
+    String MAIOR_DE_18_ANOS_DEPENDENTE = "MAIOR DE 18 ANOS - DEPENDENTE";
+
+    String PAIS_NASCIMENTO_BRASIL = "BRASIL";
+
+    String RG_COM_CPF = "RG COM CPF";
+
+    String DETRAN = "DETRAN";
+    String SSP = "SECRETARIA SEGURANCA PUBLICA";
+    String MINISTERIO_DA_EDUCACAO = "MINISTERIO DA EDUCACAO";
+    String CRM = "CRM";
+
+    String AC = "AC";
+    String AL = "AL";
+    String SP = "SP";
+
+    String SAO_PAULO = "São Paulo";
+    String ACRELANDIA = "ACRELANDIA";
+    String AGUA_BRANCA = "AGUA BRANCA";
+
+    String COPIA = "Cópia";
+    String DANIFICADO = "Danificado";
+    String DOCUMENTO_RESPONSAVEL = "Documento do Responsável";
+    String TELA = "Tela";
+
+    String RETORNO_N1 = "RETORNO N1";
+    String ERRO_OPERACIONAL = "ERRO OPERACIONAL";
+
+    String DATA_EMISSAO_DOC = Utilitarios.calcularDataRelativaHoje(-365,"ddMMyyyy");
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "QA03182": {
+        "ti": {
+            "android": {
+                "cpf": "37807913827",
+                "senha": "147258",
+                "valorResgateParcial": "5050"
+            },"ios": {
+                "cpf": "77722872751",
+                "senha": "147258",
+                "valorResgateParcial": "5050"
+            }
+        },"tu": {
+            "android": {
+                "cpf": "37807913827",
+                "senha": "147258",
+                "valorResgateParcial": "5050"
+            },"ios": {
+                "cpf": "37807913827",
+                "senha": "147258",
+                "valorResgateParcial": "5050"
+            }
+        }
+    }
+  }
+]

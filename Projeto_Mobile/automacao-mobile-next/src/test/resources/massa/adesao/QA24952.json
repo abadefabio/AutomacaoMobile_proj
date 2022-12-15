@@ -1,0 +1,35 @@
+[
+    {
+        "QA24952": {
+            "ti": {
+                "android": {
+                    "nome": "FULANO BELTRANO DA SILVA PERFIL NOVO",
+                    "dataNascimento": "17/03/1957",
+                    "email": "next@next.com",
+                    "celular": "11999887766",
+                    "senha": "147258"
+                },"ios": {
+                    "nome": "FULANO BELTRANO DA SILVA PERFIL NOVO",
+                    "dataNascimento": "17/03/1957",
+                    "email": "next@next.com",
+                    "celular": "11999887766",
+                    "senha": "147258"
+                }
+            },"tu": {
+                "android": {
+                    "nome": "FULANO BELTRANO DA SILVA PERFIL NOVO",
+                    "dataNascimento": "17/03/1957",
+                    "email": "next@next.com",
+                    "celular": "11999887766",
+                    "senha": "147258"
+                },"ios": {
+                    "nome": "FULANO BELTRANO DA SILVA PERFIL NOVO",
+                    "dataNascimento": "17/03/1957",
+                    "email": "next@next.com",
+                    "celular": "11999887766",
+                    "senha": "147258"
+                }
+            }
+        }
+    }
+]

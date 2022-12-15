@@ -1,0 +1,15 @@
+[
+    {
+        "QA9666": {
+            "cpf": "13437575503",
+            "senha": "147258",
+            "status_2" : {
+                "onboardingStatus" : 2,
+                "rejectionReason" : "TEST",
+                "applicationCreationDate" : "2021-08-23",
+                "underAnalysisDate" : "2021-08-23",
+                "rejectionDate" : "2021-08-23"
+            }
+        }
+    }
+]

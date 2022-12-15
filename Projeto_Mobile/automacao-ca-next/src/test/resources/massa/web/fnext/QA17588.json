@@ -1,0 +1,52 @@
+[
+    {
+        "QA17588": {
+            "cpf": "61302277286",
+            "requestAdesaoNextJoySegregado": {
+                "addressAdditionalInfoDependente": "apt 10",
+                "areaCodeDependente": "11",
+                "birthdayDependente": "2016-10-11T00:00:00Z",
+                "cityIdDependente": "0",
+                "cityOfBirthId": "5696",
+                "cityOfBirthIdDependente": "50830",
+                "cnhId": "8679652",
+                "countryCodeDependente": "55",
+                "countryOfBirthId": "46",
+                "countryOfBirthIdDependente": "46",
+                "documentIssueDate": "",
+                "documentIssuerDepartmentDependente": "",
+                "documentIssuerStateIdDependente": "",
+                "eduCompletionDtDependente": "2020-05-27",
+                "eduCurrentSemesterDependente": "0",
+                "eduInstitutionNameDependente": "Faculdade Beltrana",
+                "eduInstitutionStateCdDependente": "SP",
+                "educationInstitutionStateIdDependente": "SP",
+                "email": "teste@teste.com",
+                "emailDependente": "teste@teste.com",
+                "fatherNameDependente": "",
+                "genderDependente": "M",
+                "mobileAreaCode": "11",
+                "mobileCountryCode": "55",
+                "mobilePhoneNumber": "978262314",
+                "motherNameDependente": "FULANA BELTRANO DA SILVA PERFIL NOVO",
+                "name": "FULANO BELTRANO DA SILVA PERFIL NOVO",
+                "nameDependente": "FULANO BELTRANO DA SILVA PERFIL NOVO",
+                "neighbourhoodDependente": "Bairro Liberdade",
+                "nicknameDependente": "fulaninho",
+                "phoneNumberDependente": "908055601",
+                "postalCodeDependente": "6220090",
+                "referencePersonNameDependente": "Valentina Silva",
+                "relationshipDegreeId": "2",
+                "joinDocumentType": "CNH",
+                "rgId": "8679652",
+                "rgIdDependente": "992221299",
+                "stateCdDependente": "SP",
+                "stateOfBirthId": "58",
+                "stateOfBirthIdDependente": "11",
+                "streetNameDependente": "rua fulano de tal",
+                "streetNumberDependente": "100"
+            }
+        }
+    }
+
+]

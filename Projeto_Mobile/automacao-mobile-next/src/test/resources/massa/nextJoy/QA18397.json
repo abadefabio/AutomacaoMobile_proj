@@ -1,0 +1,46 @@
+[
+  {
+    "QA18397": {
+        "ti": {
+            "android": {
+                "criarMassaAutomatica": true,
+                "cpfResponsavel1": "13037559209",
+                "cpfResponsavel2": "58659201892",
+                "cpfDependente": "21518639488",
+                "senha": "147258",
+                "nome": "FULANO BELTRANO DA SILVA PERFIL NOVO",
+                "dataNasc": "11/10/2016"
+            },
+            "ios": {
+                "criarMassaAutomatica": true,
+                "cpfResponsavel1": "70892671050",
+                "cpfResponsavel2": "63630025676",
+                "cpfDependente": "77839073182",
+                "senha": "147258",
+                "nome": "FULANO BELTRANO DA SILVA PERFIL NOVO",
+                "dataNasc": "11/10/2016"
+            }
+        },
+        "tu": {
+            "android": {
+                "criarMassaAutomatica": true,
+                "cpfResponsavel1": "04659684067",
+                "cpfResponsavel2": "04659684067",
+                "cpfDependente": "73757201000",
+                "senha": "147258",
+                "nome": "Fulano Beltrano Junior",
+                "dataNasc": "11/09/2018"
+            },
+            "ios": {
+                "criarMassaAutomatica": true,
+                "cpfResponsavel1": "04659684067",
+                "cpfResponsavel2": "04659684067",
+                "cpfDependente": "73757201000",
+                "senha": "147258",
+                "nome": "Fulano Beltrano Junior",
+                "dataNasc": "11/09/2018"
+            }
+        }
+    }
+  }
+]

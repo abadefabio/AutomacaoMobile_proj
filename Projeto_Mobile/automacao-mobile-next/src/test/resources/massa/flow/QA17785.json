@@ -1,0 +1,31 @@
+[
+    {
+        "QA17785": {
+            "ti": {
+                "android": {
+                    "cpf": "11457103958",
+                    "senha": "147258",
+                    "categoria": "Viagem",
+                    "segundaCategoria": "Transporte"
+                },"ios": {
+                    "cpf": "93933156475",
+                    "senha": "147258",
+                    "categoria": "Viagem",
+                    "segundaCategoria": "Transporte"
+                }
+            },"tu": {
+                "android": {
+                    "cpf": "24667572302",
+                    "senha": "147258",
+                    "categoria": "Viagem",
+                    "segundaCategoria": "Transporte"
+                },"ios": {
+                    "cpf": "24667572302",
+                    "senha": "147258",
+                    "categoria": "Viagem",
+                    "segundaCategoria": "Transporte"
+                }
+            }
+        }
+    }
+]

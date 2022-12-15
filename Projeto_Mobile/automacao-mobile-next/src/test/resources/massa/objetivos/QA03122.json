@@ -1,0 +1,35 @@
+[
+  {
+    "QA03122": {
+        "ti": {
+            "android": {
+                "cpf": "01628323701",
+                "senha": "147258",
+                "nomeObjetivo": "FRProduto",
+                "objetivo": "multi-indices"
+            },
+            "ios": {
+                "cpf": "03190173621",
+                "senha": "147258",
+                "nomeObjetivo": "FRProduto",
+                "objetivo": "multi-indices"
+            }
+        },
+        "tu": {
+            "android": {
+                "cpf": "42939863679",
+                "senha": "147258",
+                "nomeObjetivo": "FRProduto",
+                "objetivo": "multi-indices"
+
+            },
+            "ios": {
+                "cpf": "42939863679",
+                "senha": "147258",
+                "nomeObjetivo": "FRProduto",
+                "objetivo": "multi-indices"
+            }
+        }
+    }
+  }
+]

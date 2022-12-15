@@ -1,0 +1,27 @@
+    [
+    {
+        "QA04266": {
+            "ti": {
+                "android": {
+                    "cpf": "48117877228",
+                    "senha": "147258",
+                    "texto": "Escolha uma aplicação:"
+                },"ios": {
+                    "cpf": "81055887652",
+                    "senha": "147258",
+                    "texto": "Escolha uma aplicação:"
+                }
+            },"tu": {
+                "android": {
+                    "cpf": "39383913592",
+                    "senha": "147258",
+                    "texto": "Escolha uma aplicação:"
+                },"ios": {
+                    "cpf": "63835868071",
+                    "senha": "147258",
+                    "texto": "Escolha uma aplicação:"
+                }
+            }
+        }
+    }
+]

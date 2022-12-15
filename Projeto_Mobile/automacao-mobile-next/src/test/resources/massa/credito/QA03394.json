@@ -1,0 +1,35 @@
+[
+    {
+        "QA03394": {
+            "ti": {
+                "android": {
+                    "cpf": "54487142180",
+                    "senha": "147258",
+                    "valor": "10000",
+                    "valorMensal": "53,16",
+                    "texto": "Autorizado"
+                },"ios": {
+                    "cpf": "54487142180",
+                    "senha": "147258",
+                    "valor": "10000",
+                    "valorMensal": "34,98",
+                    "texto": "Autorizado"
+                }
+            },"tu": {
+                "android": {
+                    "cpf": "11296183157",
+                    "senha": "147258",
+                    "valor": "10000",
+                    "valorMensal": "34,98",
+                    "texto": "Autorizado"
+                },"ios": {
+                    "cpf": "11296183157",
+                    "senha": "147258",
+                    "valor": "10000",
+                    "valorMensal": "34,98",
+                    "texto": "Autorizado"
+                }
+            }
+        }
+    }
+]

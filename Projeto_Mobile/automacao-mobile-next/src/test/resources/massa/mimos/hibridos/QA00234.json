@@ -1,0 +1,79 @@
+[
+  {
+    "QA00234": {
+        "ti": {
+            "android": {
+                "cpf": "87051004530",
+                "senha": "147258",
+                "oferta": "AUTOMAÇÃO DE TESTE LTDA",
+                "mensagem": "Você só pode gerar 5 cupons por promoção. Aproveite os outros mimos que o next preparou para você",
+                "ofertaNome" : "FR QA - 234 Android",
+                "categoria" : "Teste de automatização",
+                "parceiro" : "Automação de teste LTDA",
+                "texto": "fr teste android",
+                "pathArquivoImagem": "\\src\\test\\resources\\arquivo\\png-Uranus2.png",
+                "beneficio" : "Teste Benefício FR Android",
+                "formaDePagamento": "CARTAO_CREDITO_DEBITO",
+                "comoUsar": "Essa é uma oferta criada para teste de automação e será utilizada dentro do cenário",
+                "valor": "5",
+                "nomeBotao": "Teste QA - 234",
+                "link": "https://next.me",
+                "pathArquivoVoucher": "\\src\\test\\resources\\arquivo\\Tab_Voucher - 18.csv"
+            },"ios": {
+                "cpf": "58661618851",
+                "senha": "147258",
+                "oferta": "AUTOMAÇÃO DE TESTE LTDA",
+                "mensagem": "Você só pode gerar 5 cupons por promoção. Aproveite os outros mimos que o next preparou para você",
+                "ofertaNome" : "FR QA - 234 iOS",
+                "categoria" : "Teste de automatização",
+                "parceiro" : "Automação de teste LTDA",
+                "texto": "fr teste ios",
+                "pathArquivoImagem": "\\src\\test\\resources\\arquivo\\png-Uranus2.png",
+                "beneficio" : "Teste Benefício FR iOS",
+                "formaDePagamento": "CARTAO_CREDITO_DEBITO",
+                "comoUsar": "Essa é uma oferta criada para teste de automação e será utilizada dentro do cenário",
+                "valor": "5",
+                "nomeBotao": "Teste QA - 234",
+                "link": "https://next.me",
+                "pathArquivoVoucher": "\\src\\test\\resources\\arquivo\\Tab_Voucher - 18.csv"
+            }
+        },"tu": {
+            "android": {
+                "cpf": "73015177001",
+                "senha": "147258",
+                "oferta": "AUTOMAÇÃO DE TESTE LTDA",
+                "mensagem": "Você só pode gerar 5 cupons por promoção. Aproveite os outros mimos que o next preparou para você",
+                "ofertaNome" : "FR QA - 234 Android",
+                "categoria" : "Teste de automatização",
+                "parceiro" : "Automação de teste LTDA",
+                "texto": "fr teste android",
+                "pathArquivoImagem": "\\src\\test\\resources\\arquivo\\png-Uranus2.png",
+                "beneficio" : "Teste Benefício FR Android",
+                "formaDePagamento": "CARTAO_CREDITO_DEBITO",
+                "comoUsar": "Essa é uma oferta criada para teste de automação e será utilizada dentro do cenário",
+                "valor": "5",
+                "nomeBotao": "Teste QA - 234",
+                "link": "https://next.me",
+                "pathArquivoVoucher": "\\src\\test\\resources\\arquivo\\Tab_Voucher - 18.csv"
+            },"ios": {
+                "cpf": "73015177001",
+                "senha": "147258",
+                "oferta": "AUTOMAÇÃO DE TESTE LTDA",
+                "mensagem": "Você só pode gerar 5 cupons por promoção. Aproveite os outros mimos que o next preparou para você",
+                "ofertaNome" : "FR QA - 234 iOS",
+                "categoria" : "Teste de automatização",
+                "parceiro" : "Automação de teste LTDA",
+                "texto": "fr teste ios",
+                "pathArquivoImagem": "\\src\\test\\resources\\arquivo\\png-Uranus2.png",
+                "beneficio" : "Teste Benefício FR iOS",
+                "formaDePagamento": "CARTAO_CREDITO_DEBITO",
+                "comoUsar": "Essa é uma oferta criada para teste de automação e será utilizada dentro do cenário",
+                "valor": "5",
+                "nomeBotao": "Teste QA - 234",
+                "link": "https://next.me",
+                "pathArquivoVoucher": "\\src\\test\\resources\\arquivo\\Tab_Voucher - 18.csv"
+            }
+        }
+    }
+  }
+]

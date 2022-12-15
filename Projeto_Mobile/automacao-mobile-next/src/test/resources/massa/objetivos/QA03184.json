@@ -1,0 +1,27 @@
+[
+  {
+    "QA03184": {
+        "ti": {
+            "android": {
+                "cpf": "86448777474",
+                "senha": "147258",
+                "valorResgate": "5050"
+            },"ios": {
+                "cpf": "03550387571",
+                "senha": "147258",
+                "valorResgate": "5050"
+            }
+        },"tu": {
+            "android": {
+                "cpf": "86448777474",
+                "senha": "147258",
+                "valorResgate": "5050"
+            },"ios": {
+                "cpf": "03550387571",
+                "senha": "147258",
+                "valorResgate": "5050"
+            }
+        }
+    }
+  }
+]

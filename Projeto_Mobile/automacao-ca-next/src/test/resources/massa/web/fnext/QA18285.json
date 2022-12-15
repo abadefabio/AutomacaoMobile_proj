@@ -1,0 +1,48 @@
+[
+    {
+        "QA18285":
+        {
+            "document": "45438830800",
+            "requestAdesaoNextJoy": {
+                "addressAdditionalInfo": "apt 10",
+                "areaCode": 11,
+                "birthPlace": "Pirituba",
+                "birthdate": "2010-05-27",
+                "cityId": 7388,
+                "cityOfBirthId": 50830,
+                "completeTutorial": false,
+                "completeTutorialJoy": false,
+                "countryOfBirth": 46,
+                "customerName": "FULANO BELTRANO DA SILVA PERFIL NOVO",
+                "documentIssueDate": "2015-09-19",
+                "documentIssuerDepartment": "SSP",
+                "documentIssuerStateId": "SP",
+                "eduCompletionDt": "2020-05-27",
+                "eduCurrentSemester": 0,
+                "eduInstitutionName": "Faculdade Beltrana",
+                "eduInstitutionStateCd": "SP",
+                "educationInstitutionStateId": "SP",
+                "email": "teste@teste.com",
+                "fatherName": "FULANO DA SILVA",
+                "gender": "F",
+                "joinDocumentType": "RG",
+                "motherName": "BELTRANA DA SILVA",
+                "neighbourhood": "Bairro Liberdade",
+                "nickname": "fulaninho",
+                "onboardingApplicationStatus": 4,
+                "onboardingApplicationStatusJoy": 4,
+                "phoneNumber": 999999999,
+                "postalCode": 6220090,
+                "referencePersonName": "Valentina Silva",
+                "relationshipDegreeId": 2,
+                "rgId": 12345678,
+                "shouldActivate": true,
+                "shouldActivateJoy": false,
+                "stateCd": "SP",
+                "stateOfBirth": 11,
+                "streetName": "rua fulano de tal",
+                "streetNumber": 100
+            }
+        }
+    }
+]

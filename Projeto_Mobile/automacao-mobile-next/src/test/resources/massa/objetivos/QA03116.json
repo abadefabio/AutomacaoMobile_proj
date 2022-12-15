@@ -1,0 +1,46 @@
+[
+  {
+    "QA03116": {
+        "ti": {
+            "android": {
+                "cpf": "99455128462",
+                "senha": "147258",
+                "nomeObjetivo": "TesteCasaAndroid",
+                "valorMinimo": "5",
+                "valorAcimaMeta": "50000000",
+                "valor": "500000",
+                "valorParcela": "5000"
+            },
+            "ios": {
+                "cpf": "99455128462",
+                "senha": "147258",
+                "nomeObjetivo": "TesteCasaIos",
+                "valorMinimo": "5",
+                "valorAcimaMeta": "50000000",
+                "valor": "500000",
+                "valorParcela": "5000"
+            }
+        },
+        "tu": {
+            "android": {
+                "cpf": "",
+                "senha": "147258",
+                "nomeObjetivo": "TesteCarro",
+                "valorMinimo": "5",
+                "valorAcimaMeta": "50000011",
+                "valor": "500000",
+                "valorParcela": "100"
+            },
+            "ios": {
+                "cpf": "",
+                "senha": "147258",
+                "nomeObjetivo": "TesteCarro",
+                "valorMinimo": "5",
+                "valorAcimaMeta": "50000011",
+                "valor": "500000",
+                "valorParcela": "100"
+            }
+        }
+    }
+  }
+]

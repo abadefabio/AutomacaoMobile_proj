@@ -1,0 +1,23 @@
+[
+    {
+        "QA9624": {
+            "cpf": "41567625487",
+            "senha": "147258",
+            "status_1" : {
+                "onboardingStatus" : 1,
+                "applicationCreationDate" : "2021-04-26"
+
+            },
+            "status_2" : {
+                "rejectionReason" : "TEST",
+                "applicationCreationDate" : "2021-08-23",
+                "underAnalysisDate" : "2021-08-23",
+                "rejectionDate" : "2021-08-23"
+            },
+            "status_5" : {
+                "onboardingStatus" : 5,
+                "applicationCreationDate" : "2018-01-18"
+            }
+        }
+    }
+]

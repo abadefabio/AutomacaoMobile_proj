@@ -1,0 +1,34 @@
+[
+    {
+        "QA26443": {
+            "ti": {
+                "android": {
+                    "cpf": "25536481894",
+                    "senha": "147258",
+                    "nomeVaquinha": "QA26443",
+                    "valorVaquinha": "100000"
+                },
+                "ios": {
+                    "cpf": "77460624829",
+                    "senha": "147258",
+                    "nomeVaquinha": "QA26443",
+                    "valorVaquinha": "100000"
+                }
+            },
+            "tu": {
+                "android": {
+                    "cpf": "77460624829",
+                    "senha": "147258",
+                    "nomeVaquinha": "QA26443",
+                    "valorVaquinha": "100000"
+                },
+                "ios": {
+                    "cpf": "77460624829",
+                    "senha": "147258",
+                    "nomeVaquinha": "QA26443",
+                    "valorVaquinha": "100000"
+                }
+            }
+        }
+    }
+]

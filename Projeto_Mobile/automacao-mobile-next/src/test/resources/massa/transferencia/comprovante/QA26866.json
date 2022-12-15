@@ -1,0 +1,38 @@
+[
+    {
+        "QA26866": {
+            "ti": {
+                "android": {
+                    "cpf": "80072159219",
+                    "senha": "147258",
+                    "dataInicialComprovante": "02/10/2022",
+                    "dataFinalComprovante": "03/10/2022"
+                },
+                "ios": {
+                    "cpf": "80072159219",
+                    "senha": "147258",
+                    "dataInicialComprovante": "02/10/2022",
+                    "dataFinalComprovante": "03/10/2022"
+                }
+            },
+            "tu": {
+                "android": {
+                    "cpf": "80072159219",
+                    "senha": "147258",
+                    "dataInicialComprovante": "02/10/2022",
+                    "dataFinalComprovante": "03/10/2022"
+                },
+                "ios": {
+                    "cpf": "80072159219",
+                    "senha": "147258",
+                    "dataInicialComprovante": "02/10/2022",
+                    "dataFinalComprovante": "03/10/2022"
+                }
+            }
+        }
+    }
+]
+
+
+
+

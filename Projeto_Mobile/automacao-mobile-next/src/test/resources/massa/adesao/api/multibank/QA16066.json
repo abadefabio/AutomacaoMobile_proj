@@ -1,0 +1,30 @@
+[
+    {
+        "QA16066": {
+            "ti": {
+                "comentarios": "Para o caso de teste em si, em 'ti', somente até 4 adesões existentes; Poderá aumentar para gerar massa a pedido em vez de rodar o caso de teste.",
+                "minDependentesAtuais": "0",
+                "maxDependentesAtuais": "4",
+                "cpfDependente": "",
+                "cpf": ""
+            },
+            "tu": {
+                "comentarios": "Para o ambiente 'tu', podemos aproveitar as massas mais antigas, com mais dependentes, de forma padrão",
+                "minDependentesAtuais": "5",
+                "maxDependentesAtuais": "999999",
+                "cpfDependente": "",
+                "cpf": ""
+            },
+            "instancia": [
+                {
+                    "squad": "@gilvania",
+                    "comentarios": "Nesta squad, pode-se utilizar massas com mais de 4 adesões iniciais",
+                    "minDependentesAtuais": "5",
+                    "maxDependentesAtuais": "999999",
+                    "cpfDependente": "",
+                    "cpf": ""
+                }
+            ]
+        }
+    }
+]

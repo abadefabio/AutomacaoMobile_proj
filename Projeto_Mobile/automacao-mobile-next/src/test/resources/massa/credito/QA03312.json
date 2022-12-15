@@ -1,0 +1,35 @@
+[
+    {
+        "QA03312": {
+            "ti": {
+                "android": {
+                    "cpf": "01972655450",
+                    "senha": "147258",
+                    "nome": "QA-3312",
+                    "valor": "500",
+                    "texto": "Autorizado"
+                },"ios": {
+                    "cpf": "01972655450",
+                    "senha": "147258",
+                    "nome": "QA-3312",
+                    "valor": "500",
+                    "texto": "Autorizado"
+                }
+            },"tu": {
+                "android": {
+                    "cpf": "72140953193",
+                    "senha": "147258",
+                    "nome": "QA-3312",
+                    "valor": "500",
+                    "texto": "Autorizado"
+                },"ios": {
+                    "cpf": "72140953193",
+                    "senha": "147258",
+                    "nome": "QA-3312",
+                    "valor": "500",
+                    "texto": "Autorizado"
+                }
+            }
+        }
+    }
+]

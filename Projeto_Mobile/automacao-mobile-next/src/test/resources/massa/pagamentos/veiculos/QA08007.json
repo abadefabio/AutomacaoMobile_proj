@@ -1,0 +1,48 @@
+[
+    {
+        "QA08007": {
+            "ti": {
+                "android": {
+                    "cpf": "49201459343",
+                    "senha": "147258",
+                    "dadosRenavam": {
+                        "renavam": "01094045044",
+                        "estado": "São Paulo"
+                    },
+                    "tipoPagamento": "Transferência",
+                    "tipoConta": "Conta-Corrente"
+
+                },"ios": {
+                    "cpf": "49201459343",
+                    "senha": "147258",
+                    "dadosRenavam": {
+                        "renavam": "01094045044",
+                        "estado": "São Paulo"
+                    },
+                    "tipoPagamento": "Transferência",
+                    "tipoConta": "Conta-Corrente"
+                }
+            },"tu": {
+                "android": {
+                    "cpf": "49201459343",
+                    "senha": "147258",
+                    "dadosRenavam": {
+                        "renavam": "01094045044",
+                        "estado": "São Paulo"
+                    },
+                    "tipoPagamento": "Transferência",
+                    "tipoConta": "Conta-Corrente"
+                },"ios": {
+                    "cpf": "49201459343",
+                    "senha": "147258",
+                    "dadosRenavam": {
+                        "renavam": "01094045044",
+                        "estado": "São Paulo"
+                    },
+                    "tipoPagamento": "Transferência",
+                    "tipoConta": "Conta-Corrente"
+                }
+            }
+        }
+    }
+]

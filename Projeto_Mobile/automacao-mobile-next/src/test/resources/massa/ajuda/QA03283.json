@@ -1,0 +1,42 @@
+[
+  {
+    "QA03283": {
+        "ti": {
+            "android": {
+                "cpf": "57515087340",
+                "dominioUsuarioEmail": "corpd/I908989",
+                "senhaEmail": "teste10",
+                "email": "noreply@next.b.br",
+                "assuntoEmail": "Código para mudança de senha",
+                "novaSenha":"3108357"
+            },"ios": {
+                "cpf": "59285185878",
+                "dominioUsuarioEmail": "corpd/I908989",
+                "senhaEmail": "teste10",
+                "email": "noreply@next.b.br",
+                "assuntoEmail": "Código para mudança de senha",
+                "novaSenha":"3108357"
+            }
+        },"tu": {
+            "android": {
+                "cpf": "91123229899",
+                "dominioUsuarioEmail": "corpd/I908989",
+                "senhaEmail": "teste11",
+                "email": "noreply@next.b.br",
+                "assuntoEmail": "Código para mudança de senha",
+                "novaSenha":"3108357"
+            },"ios": {
+                "cpf": "91123229899",
+                "dominioUsuarioEmail": "corpd/I908989",
+                "senhaEmail": "teste11",
+                "email": "noreply@next.b.br",
+                "assuntoEmail": "Código para mudança de senha",
+                "novaSenha":"3108357"
+            }
+        }
+    }
+  }
+]
+
+
+

@@ -1,0 +1,27 @@
+[
+  {
+    "QA20197": {
+        "ti": {
+            "android": {
+                "criarMassaAgora": true,
+                "cpf": "10335663494",
+                "senha": "147258"
+            },"ios": {
+                "criarMassaAgora": true,
+                "cpf": "10335663494",
+                "senha": "147258"
+            }
+        },"tu": {
+            "android": {
+                "criarMassaAgora": true,
+                "cpf": "10335663494",
+                "senha": "147258"
+            },"ios": {
+                "criarMassaAgora": true,
+                "cpf": "10335663494",
+                "senha": "147258"
+            }
+        }
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "QA02884": {
+            "ti": {
+                "android": {
+                    "cpf": "33114682103",
+                    "senha": "147258",
+                    "codigoDeBarra": "846700000025401500892021505213969205082751296128",
+                    "descricao": "Conta De Energia",
+                    "valorExtrato": "240,15"
+                },"ios": {
+                    "cpf": "33114682103",
+                    "senha": "147258",
+                    "codigoDeBarra": "846700000025401500892021505213969205082751296128",
+                    "descricao": "Conta De Energia",
+                    "valorExtrato": "240,15"
+                }
+            },"tu": {
+                "android": {
+                    "cpf": "57745663741",
+                    "senha": "147258",
+                    "codigoDeBarra": "846500000027401500892021209082208775173526508325",
+                    "descricao": "Conta De Telefone",
+                    "valorExtrato": "240,15"
+                },"ios": {
+                    "cpf": "57745663741",
+                    "senha": "147258",
+                    "codigoDeBarra": "846000000022401500242020309090628277475977776487",
+                    "descricao": "Conta De Telefone",
+                    "valorExtrato": "240,15"
+                }
+            }
+        }
+    }
+]

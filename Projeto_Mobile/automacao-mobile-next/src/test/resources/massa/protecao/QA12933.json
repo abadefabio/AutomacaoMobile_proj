@@ -1,0 +1,35 @@
+[
+    {
+        "QA12933": {
+            "ti": {
+                "android": {
+                    "cpf": "32882184964",
+                    "senha": "147258",
+                    "cep": "05136170",
+                    "enderecoNumero": "277",
+                    "enderecoComplemento": "banco"
+                },"ios": {
+                    "cpf": "60161327214",
+                    "senha": "147258",
+                    "cep": "05136170",
+                    "enderecoNumero": "277",
+                    "enderecoComplemento": "banco"
+                }
+            },"tu": {
+                "android": {
+                    "cpf": "32882184964",
+                    "senha": "147258",
+                    "cep": "05136170",
+                    "enderecoNumero": "277",
+                    "enderecoComplemento": "banco"
+                },"ios": {
+                    "cpf": "32882184964",
+                    "senha": "147258",
+                    "cep": "05136170",
+                    "enderecoNumero": "277",
+                    "enderecoComplemento": "banco"
+                }
+            }
+        }
+    }
+]

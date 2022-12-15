@@ -1,0 +1,46 @@
+[
+    {
+        "QA03414": {
+            "ti": {
+                "android": {
+                    "cpf": "87333839796",
+                    "senha": "147258",
+                    "senhaCartao": "246379",
+                    "confirmarSenhaCartao": "246379",
+                    "pacotePadronizado": "PACOTE PADRONIZADO IV",
+                    "diaDeVencimento": "Todo dia 1",
+                    "tipoPagamento": "Por boleto"
+                },
+                "ios": {
+                    "cpf": "87333839796",
+                    "senha": "147258",
+                    "senhaCartao": "246379",
+                    "confirmarSenhaCartao": "246379",
+                    "pacotePadronizado": "PACOTE PADRONIZADO IV",
+                    "diaDeVencimento": "Todo dia 1",
+                    "tipoPagamento": "Por boleto"
+                }
+            },
+            "tu": {
+                "android": {
+                    "cpf": "57668972005",
+                    "senha": "147258",
+                    "senhaCartao": "258147",
+                    "confirmarSenhaCartao": "258147",
+                    "pacotePadronizado": "PACOTE PADRONIZADO IV",
+                    "diaDeVencimento": "Todo dia 1",
+                    "tipoPagamento": "Por boleto"
+                },
+                "ios": {
+                    "cpf": "57668972005",
+                    "senha": "147258",
+                    "senhaCartao": "258147",
+                    "confirmarSenhaCartao": "258147",
+                    "pacotePadronizado": "PACOTE PADRONIZADO IV",
+                    "diaDeVencimento": "Todo dia 1",
+                    "tipoPagamento": "Por boleto"
+                }
+            }
+        }
+    }
+]

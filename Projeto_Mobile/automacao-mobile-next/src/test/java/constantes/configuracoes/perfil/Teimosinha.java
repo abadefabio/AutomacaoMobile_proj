@@ -1,0 +1,7 @@
+package constantes.configuracoes.perfil;
+
+public enum Teimosinha {
+    GRANA_DE_EMERGENCIA,
+    REPETIR_TENTATIVAS_DEBITO_AUTOMATICO_SELECIONAR,
+    REPETIR_TENTATIVAS_DEBITO_AUTOMATICO_SELECIONADO;
+}

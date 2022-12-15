@@ -1,0 +1,47 @@
+[
+  {
+    "QA00313": {
+        "ti": {
+            "android": {
+                "cpf": "69061468663",
+                "senha": "147258",
+                "nome": "FULANO",
+                "sobrenome": "AUTOMACAO",
+                "banco": "341",
+                "agencia": "0269",
+                "conta": "263941",
+                "cpfContato":"23678988040"
+            },"ios": {
+                "cpf": "69061468663",
+                "senha": "147258",
+                "nome": "FULANO",
+                "sobrenome": "AUTOMACAO",
+                "banco": "341",
+                "agencia": "0269",
+                "conta": "263941",
+                "cpfContato":"23678988040"
+            }
+        },"tu": {
+            "android": {
+                "cpf": "69061468663",
+                "senha": "147258",
+                "nome": "FULANO",
+                "sobrenome": "AUTOMACAO",
+                "banco": "341",
+                "agencia": "0269",
+                "conta": "263941",
+                "cpfContato":"23678988040"
+            },"ios": {
+                "cpf": "69061468663",
+                "senha": "147258",
+                "nome": "FULANO",
+                "sobrenome": "AUTOMACAO",
+                "banco": "341",
+                "agencia": "0269",
+                "conta": "263941",
+                "cpfContato":"23678988040"
+            }
+        }
+    }
+  }
+]

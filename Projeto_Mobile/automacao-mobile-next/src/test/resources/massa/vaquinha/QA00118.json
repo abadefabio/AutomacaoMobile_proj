@@ -1,0 +1,38 @@
+[
+    {
+        "QA00118": {
+            "ti": {
+                "android": {
+                    "cpf": "25536481894",
+                    "senha": "147258",
+                    "nomeVaquinha": "QA00118",
+                    "nomeVaquinhaAlterada": "QA00118",
+                    "valorVaquinha": "200000"
+                },
+                "ios": {
+                    "cpf": "77460624829",
+                    "senha": "147258",
+                    "nomeVaquinha": "QA00118",
+                    "nomeVaquinhaAlterada": "QA-0118",
+                    "valorVaquinha": "200000"
+                }
+            },
+            "tu": {
+                "android": {
+                    "cpf": "77460624829",
+                    "senha": "147258",
+                    "nomeVaquinha": "QA00118",
+                    "nomeVaquinhaAlterada": "QA00118",
+                    "valorVaquinha": "200000"
+                },
+                "ios": {
+                    "cpf": "77460624829",
+                    "senha": "147258",
+                    "nomeVaquinha": "QA00118",
+                    "nomeVaquinhaAlterada": "QA00118",
+                    "valorVaquinha": "200000"
+                }
+            }
+        }
+    }
+]

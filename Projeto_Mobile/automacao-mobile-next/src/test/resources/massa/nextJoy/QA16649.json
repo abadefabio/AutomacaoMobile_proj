@@ -1,0 +1,50 @@
+[
+    {
+        "QA16649": {
+            "ti": {
+                "android": {
+                    "criarMassaAutomatica": false,
+                    "cpf": "36569155989",
+                    "senha": "147258",
+                    "nome": "FULANO BELTRANO DA SILVA",
+                    "cpfsMultibank" : {
+                        "cpf" : "58389235200",
+                        "cpfDependente" : "37149158692"
+                    }
+                },
+                "ios": {
+                    "criarMassaAutomatica": false,
+                    "cpf": "18281610395",
+                    "senha": "147258",
+                    "nome": "FULANO BELTRANO DA SILVA",
+                    "cpfsMultibank" : {
+                        "cpf" : "22568882409",
+                        "cpfDependente" : "94521204368"
+                    }
+                }
+            },
+            "tu": {
+                "android": {
+                    "criarMassaAutomatica": false,
+                    "cpf": "36478508617",
+                    "senha": "147258",
+                    "nome": "FULANO BELTRANO DA SILVA Junior",
+                    "cpfsMultibank" : {
+                        "cpf" : "48077712053",
+                        "cpfDependente" : "28315619810"
+                    }
+                },
+                "ios": {
+                    "criarMassaAutomatica": false,
+                    "cpf": "98772455667",
+                    "senha": "147258",
+                    "nome": "FULANO BELTRANO DA SILVA",
+                    "cpfsMultibank" : {
+                        "cpf" : "58389235200",
+                        "cpfDependente" : "28315619810"
+                    }
+                }
+            }
+        }
+    }
+]

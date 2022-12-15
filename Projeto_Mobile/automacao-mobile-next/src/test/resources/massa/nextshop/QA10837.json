@@ -1,0 +1,31 @@
+[
+    {
+        "QA10837": {
+            "ti": {
+                "android": {
+                    "criarMassaAgora": true,
+                    "cpf": "54487142180",
+                    "senha": "147258",
+                    "nomeProduto": "Camiseta Build a business Feminina"
+                },"ios": {
+                    "criarMassaAgora": true,
+                    "cpf": "66990133430",
+                    "senha": "147258",
+                    "nomeProduto": "Camiseta Build a business Feminina"
+                }
+            },"tu": {
+                "android": {
+                    "criarMassaAgora": true,
+                    "cpf": "66990133430",
+                    "senha": "147258",
+                    "nomeProduto": "nextShop005"
+                },"ios": {
+                    "criarMassaAgora": true,
+                    "cpf": "66990133430",
+                    "senha": "147258",
+                    "nomeProduto": "nextShop005"
+                }
+            }
+        }
+    }
+]

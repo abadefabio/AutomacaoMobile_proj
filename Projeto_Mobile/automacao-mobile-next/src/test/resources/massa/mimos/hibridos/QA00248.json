@@ -1,0 +1,35 @@
+[
+    {
+        "QA00248": {
+            "ti": {
+                "android": {
+                    "oferta": "Teste QA - 248",
+                    "categoria": "Favoritos",
+                    "parceiro": "Automação de teste LTDA",
+                    "cpf": "62919392077",
+                    "senha": "147258"
+                },"ios": {
+                    "oferta": "Teste QA - 248",
+                    "categoria": "Favoritos",
+                    "parceiro": "Automação de teste LTDA",
+                    "cpf": "62919392077",
+                    "senha": "147258"
+                }
+            },"tu": {
+                "android": {
+                    "oferta": "Teste QA - 248",
+                    "categoria": "Favoritos",
+                    "parceiro": "Automação de teste LTDA",
+                    "cpf": "62919392077",
+                    "senha": "147258"
+                },"ios": {
+                    "oferta": "Teste QA - 248",
+                    "categoria": "Favoritos",
+                    "parceiro": "Automação de teste LTDA",
+                    "cpf": "62919392077",
+                    "senha": "147258"
+                }
+            }
+        }
+    }
+]

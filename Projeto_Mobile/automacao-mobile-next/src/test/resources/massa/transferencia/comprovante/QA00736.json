@@ -1,0 +1,33 @@
+[
+  {
+    "QA00736": {
+        "ti": {
+            "android": {
+                "cpf": "54722582785",
+                "senha": "147258",
+                "dataInicialComprovante": "24/01/2022",
+                "dataFinalComprovante": "25/01/2022"
+            },"ios": {
+                "cpf": "54722582785",
+                "senha": "147258",
+                "dataInicialComprovante": "24/01/2022",
+                "dataFinalComprovante": "25/01/2022"
+            }
+        },"tu": {
+            "android": {
+                "cpf": "54722582785",
+                "senha": "147258",
+                "dataInicialComprovante": "24/01/2022",
+                "dataFinalComprovante": "25/01/2022"
+            },"ios": {
+                "cpf": "54722582785",
+                "senha": "147258",
+                "dataInicialComprovante": "24/01/2022",
+                "dataFinalComprovante": "25/01/2022"
+            }
+        },
+      "cpf": "54722582785",
+      "senha": "147258"
+    }
+  }
+]

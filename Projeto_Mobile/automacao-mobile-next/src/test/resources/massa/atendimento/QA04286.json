@@ -1,0 +1,33 @@
+[
+    {
+        "QA04286": {
+            "ti": {
+                "android": {
+                    "cpf": "45752816467",
+                    "senha": "147258",
+                    "deepLink": "next://perfil",
+                    "textoDeepLink": "Perfil"
+                },"ios": {
+                    "cpf": "45752816467",
+                    "senha": "147258",
+                    "deepLink": "next://perfil",
+                    "textoDeepLink": "Perfil"
+                }
+            },
+            "tu": {
+                "android": {
+                    "cpf": "45752816467",
+                    "senha": "147258",
+                    "deepLink": "next://perfil",
+                    "textoDeepLink": "Perfil"
+                },"ios": {
+                    "cpf": "45752816467",
+                    "senha": "147258",
+                    "deepLink": "next://perfil",
+                    "textoDeepLink": "Perfil"
+                }
+            }
+
+        }
+    }
+]

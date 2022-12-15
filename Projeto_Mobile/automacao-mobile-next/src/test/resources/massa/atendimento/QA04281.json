@@ -1,0 +1,31 @@
+[
+    {
+        "QA04281": {
+            "ti": {
+                "android": {
+                    "cpf": "84765715000",
+                    "senha": "147258",
+                    "deepLink": "next://mimos",
+                    "textoDeepLink": "Mimos"
+                },"ios": {
+                    "cpf": "84765715000",
+                    "senha": "147258",
+                    "deepLink": "next://mimos",
+                    "textoDeepLink": "Mimos"
+                }
+        },"tu": {
+                "android": {
+                    "cpf": "84765715000",
+                    "senha": "147258",
+                    "deepLink": "next://mimos",
+                    "textoDeepLink": "Mimos"
+                },"ios": {
+                    "cpf": "84765715000",
+                    "senha": "147258",
+                    "deepLink": "next://mimos",
+                    "textoDeepLink": "Mimos"
+                }
+            }
+        }
+    }
+]

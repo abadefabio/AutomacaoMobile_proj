@@ -1,0 +1,32 @@
+[
+    {
+        "QA04280": {
+            "ti":{
+                "android": {
+                    "cpf": "33855222266",
+                    "senha": "147258",
+                    "deepLink": "next://limites",
+                    "textoDeepLink": "Limites"
+                },"ios": {
+                    "cpf": "33855222266",
+                    "senha": "147258",
+                    "deepLink": "next://limites",
+                    "textoDeepLink": "Limites"
+                }
+            },"tu": {
+                    "android": {
+                        "cpf": "33855222266",
+                        "senha": "147258",
+                        "deepLink": "next://limites",
+                        "textoDeepLink": "Limites"
+                    },"ios": {
+                        "cpf": "33855222266",
+                        "senha": "147258",
+                        "deepLink": "next://limites",
+                        "textoDeepLink": "Limites"
+                    }
+            }
+
+        }
+    }
+]

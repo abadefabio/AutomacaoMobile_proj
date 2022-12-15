@@ -1,0 +1,36 @@
+[
+  {
+
+    "QA00242": {
+        "ti": {
+            "android": {
+                "cpf": "98483765004",
+                "senha": "147258",
+                "oferta": "Entretenimento e delivery",
+                "promocao": "Samsung",
+                "descricaoPromocao": "Promoção Teste"
+            },"ios": {
+                "cpf": "98483765004",
+                "senha": "147258",
+                "oferta": "Entretenimento e delivery",
+                "promocao": "Samsung",
+                "descricaoPromocao": "Promoção Teste"
+            }
+        },"tu": {
+            "android": {
+                "cpf": "98483765004",
+                "senha": "147258",
+                "oferta": "Entretenimento e delivery",
+                "promocao": "Samsung",
+                "descricaoPromocao": "Promoção Teste"
+            },"ios": {
+                "cpf": "98483765004",
+                "senha": "147258",
+                "oferta": "Entretenimento e delivery",
+                "promocao": "Samsung",
+                "descricaoPromocao": "Promoção Teste"
+            }
+        }
+    }
+  }
+]

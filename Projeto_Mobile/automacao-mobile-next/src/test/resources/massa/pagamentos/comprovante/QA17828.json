@@ -1,0 +1,47 @@
+[
+    {
+        "QA17828": {
+            "ti": {
+                "android": {
+                    "cpf": "90586790047",
+                    "senha": "147258",
+                    "codigoDeBarras": "85830000000-9 10000270200-9 32046198800-7 01012021047-6",
+                    "dataVencimento": "",
+                    "dataPagamento":"",
+                    "banco":"",
+                    "valor":"10,00",
+                    "descricao":"INSS/GPS"
+                },"ios": {
+                    "cpf": "90586790047",
+                    "senha": "147258",
+                    "codigoDeBarras": "85830000000-9 10000270200-9 32046198800-7 01012021047-6",
+                    "dataVencimento": "",
+                    "dataPagamento":"",
+                    "banco":"",
+                    "valor":"10,00",
+                    "descricao":"INSS/GPS"
+                }
+            },"tu": {
+                "android": {
+                    "cpf": "90586790047",
+                    "senha": "147258",
+                    "codigoDeBarras": "85840000000-0 10000270100-2 70001203422-8 70602022063-8",
+                    "dataVencimento": "",
+                    "dataPagamento":"",
+                    "banco":"",
+                    "valor":"10,00",
+                    "descricao":"INSS/GPS"
+                },"ios": {
+                    "cpf": "90586790047",
+                    "senha": "147258",
+                    "codigoDeBarras": "85840000000-0 10000270100-2 70001203422-8 70602022063-8",
+                    "dataVencimento": "",
+                    "dataPagamento":"",
+                    "banco":"",
+                    "valor":"10,00",
+                    "descricao":"INSS/GPS"
+                }
+            }
+        }
+    }
+]

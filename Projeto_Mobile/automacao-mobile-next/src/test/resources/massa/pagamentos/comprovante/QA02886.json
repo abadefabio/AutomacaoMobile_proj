@@ -1,0 +1,46 @@
+[
+    {
+        "QA02886": {
+            "ti": {
+                "android": {
+                    "cpf": "25970255432",
+                    "senha": "147258",
+                    "codigoBarras": "83640000000-3 10000048202-4 21005372550-8 06403431182-5",
+                    "favorecidoInstituicao": "ENEL DISTRIBUI플O/SP",
+                    "descricao": "Pagamento teste - Enel",
+                    "valor": "10,00",
+                    "beneficiario": "ENEL DISTRIBUI플O/SP"
+                },
+                "ios": {
+                    "cpf": "25970255432",
+                    "senha": "147258",
+                    "codigoBarras": "83610000000-6 10000048202-4 21013839374-4 39889095013-0",
+                    "favorecidoInstituicao": "ENEL DISTRIBUI플O/SP",
+                    "descricao": "Pagamento teste - Enel",
+                    "valor": "10,00",
+                    "beneficiario": "ENEL DISTRIBUI플O/SP"
+                }
+            },
+            "tu": {
+                "android": {
+                    "cpf": "25970255432",
+                    "senha": "147258",
+                    "codigoBarras": "83610000000-6 10000048202-4 21013839374-4 39889095013-0",
+                    "favorecidoInstituicao": "ENEL DISTRIBUI플O/SP",
+                    "descricao": "Pagamento teste - Enel",
+                    "valor": "10,00",
+                    "beneficiario": "ENEL DISTRIBUI플O/SP"
+                },
+                "ios": {
+                    "cpf": "25970255432",
+                    "senha": "147258",
+                    "codigoBarras": "83610000000-6 10000048202-4 21013839374-4 39889095013-0",
+                    "favorecidoInstituicao": "ENEL DISTRIBUI플O/SP",
+                    "descricao": "Pagamento teste - Enel",
+                    "valor": "10,00",
+                    "beneficiario": "ENEL DISTRIBUI플O/SP"
+                }
+            }
+        }
+    }
+]

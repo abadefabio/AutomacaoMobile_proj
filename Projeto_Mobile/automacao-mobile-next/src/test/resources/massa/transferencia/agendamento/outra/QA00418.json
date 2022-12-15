@@ -1,0 +1,70 @@
+[
+    {
+        "QA00418": {
+            "ti": {
+                "android": {
+                    "cpf": "43416714644",
+                    "senha": "147258",
+                    "contaPagamento": {
+                        "cpfConta": "17292729401",
+                        "nome": "AUTOMACAO",
+                        "sobreNome": "QWRTAUNAY",
+                        "numeroBanco": "341",
+                        "banco:": "BANCO ITAU SA",
+                        "agencia": "1144",
+                        "conta": "413134",
+                        "TipoContaOrigem": "CONTA_POUPANCA",
+                        "TipoContaDestino": "CONTA_CORRENTE"
+                    }
+                },
+                "ios": {
+                    "cpf": "35635114547",
+                    "senha": "147258",
+                    "contaPagamento": {
+                        "cpfConta": "17292729401",
+                        "nome": "AUTOMACAO",
+                        "sobreNome": "QWRTAUNAY",
+                        "numeroBanco": "341",
+                        "banco:": "BANCO ITAU SA",
+                        "agencia": "1144",
+                        "conta": "413134",
+                        "TipoContaOrigem": "CONTA_POUPANCA",
+                        "TipoContaDestino": "CONTA_CORRENTE"
+                    }
+                }
+            },
+            "tu": {
+                "android": {
+                    "cpf": "43416714644",
+                    "senha": "147258",
+                    "contaPagamento": {
+                        "cpfConta": "17292729401",
+                        "nome": "AUTOMACAO",
+                        "sobreNome": "QWRTAUNAY",
+                        "numeroBanco": "341",
+                        "banco:": "BANCO ITAU SA",
+                        "agencia": "1144",
+                        "conta": "413134",
+                        "TipoContaOrigem": "CONTA_POUPANCA",
+                        "TipoContaDestino": "CONTA_CORRENTE"
+                    }
+                },
+                "ios": {
+                    "cpf": "43416714644",
+                    "senha": "147258",
+                    "contaPagamento": {
+                        "cpfConta": "17292729401",
+                        "nome": "AUTOMACAO",
+                        "sobreNome": "QWRTAUNAY",
+                        "numeroBanco": "341",
+                        "banco:": "BANCO ITAU SA",
+                        "agencia": "1144",
+                        "conta": "413134",
+                        "TipoContaOrigem": "CONTA_POUPANCA",
+                        "TipoContaDestino": "CONTA_CORRENTE"
+                    }
+                }
+            }
+        }
+    }
+]

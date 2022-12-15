@@ -1,0 +1,31 @@
+[
+    {
+        "QA09734": {
+            "ti": {
+                "android": {
+                    "cpf": "66990133430",
+                    "senha": "147258",
+                    "nomeProduto": "camiseta manga curta",
+                    "cvv": "214"
+                },"ios": {
+                     "cpf": "66990133430",
+                    "senha": "147258",
+                    "nomeProduto": "camiseta manga curta",
+                    "cvv": "214"
+                }
+            },"tu": {
+                "android": {
+                    "cpf": "66990133430",
+                    "senha": "147258",
+                    "nomeProduto": "camiseta manga curta",
+                    "cvv": "214"
+                },"ios": {
+                    "cpf": "66990133430",
+                    "senha": "147258",
+                    "nomeProduto": "camiseta manga curta",
+                    "cvv": "214"
+                }
+            }
+        }
+    }
+]

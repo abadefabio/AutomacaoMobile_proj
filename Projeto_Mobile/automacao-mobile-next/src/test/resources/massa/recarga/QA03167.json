@@ -1,0 +1,37 @@
+[
+  {
+    "QA03167": {
+        "ti": {
+            "android": {
+                "cpf": "57729157543",
+                "senha": "147258",
+                "telefoneIncorreto": "00000000000",
+                "operadora": "VIVO-BA",
+                "nome": "next teste",
+                "valorRecarga" : "1,00"
+            },"ios": {
+                "cpf": "14905731518",
+                "senha": "147258",
+                "telefoneIncorreto": "00000000000",
+                "operadora": "VIVO-BA",
+                "nome": "next teste",
+                "valorRecarga" : "1,00"
+            }
+        },"tu": {
+            "android": {
+                "cpf": "87625501019",
+                "senha": "147258",
+                "operadora": "VIVO - SP",
+                "nome": "next teste",
+                "valorRecarga" : "1,00"
+            },"ios": {
+                "cpf": "77299473585",
+                "senha": "147258",
+                "operadora": "VIVO - SP",
+                "nome": "next teste",
+                "valorRecarga" : "1,00"
+            }
+        }
+    }
+  }
+]

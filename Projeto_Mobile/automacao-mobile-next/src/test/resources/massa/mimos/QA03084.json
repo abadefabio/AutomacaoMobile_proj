@@ -1,0 +1,35 @@
+[
+    {
+        "QA03084": {
+            "ti": {
+                "android": {
+                    "cpf": "58908943072",
+                    "senha": "147258",
+                    "categoria": "Favoritos",
+                    "oferta": "Uber",
+                    "texto": "Luis 10 % Free"
+                },"ios": {
+                    "cpf": "58908943072",
+                    "senha": "147258",
+                    "categoria": "Favoritos",
+                    "oferta": "Uber",
+                    "texto": "Luis 10 % Free"
+                }
+            },"tu": {
+                "android": {
+                    "cpf": "58908943072",
+                    "senha": "147258",
+                    "categoria": "Favoritos",
+                    "oferta": "Uber",
+                    "texto": "Luis 10 % Free"
+                },"ios": {
+                    "cpf": "58908943072",
+                    "senha": "147258",
+                    "categoria": "Favoritos",
+                    "oferta": "Uber",
+                    "texto": "Luis 10 % Free"
+                }
+            }
+        }
+    }
+]

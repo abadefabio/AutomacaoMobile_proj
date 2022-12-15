@@ -1,0 +1,30 @@
+[
+  {
+    "QA00047": {
+        "ti": {
+            "android": {
+                "cpf": "29837703890",
+                "senha": "147258",
+                "cnpjPortabilidadePendente": "84.887.134/0001-66"
+            },
+            "ios": {
+                "cpf": "85246783723",
+                "senha": "147258",
+                "cnpjPortabilidadePendente": "07.382.019/0001-99"
+            }
+        },
+     "tu": {
+         "android": {
+             "cpf": "29837703890",
+             "senha": "147258",
+             "cnpjPortabilidadePendente": "07.382.019/0001-99"
+         },
+         "ios": {
+             "cpf": "29837703890",
+             "senha": "147258",
+             "cnpjPortabilidadePendente": "07.382.019/0001-99"
+         }
+     }
+    }
+  }
+]

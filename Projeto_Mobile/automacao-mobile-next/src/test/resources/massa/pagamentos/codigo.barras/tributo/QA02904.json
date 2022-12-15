@@ -1,0 +1,47 @@
+[
+    {
+        "QA02904": {
+            "ti": {
+                "android": {
+                    "cpf": "13986651187",
+                    "senha": "147258",
+                    "codigoDeBarras": "85640000000-1 10040489202-6 50325091210-5 31000118391-5",
+                    "dataVencimento": "",
+                    "dataPagamento":"",
+                    "banco":"",
+                    "valor":"10,04",
+                    "descricao":"Pagamento"
+                },"ios": {
+                    "cpf": "31772253383",
+                    "senha": "147258",
+                    "codigoDeBarras": "85640000000-1 10040489202-6 50325091210-5 31000118391-5",
+                    "dataVencimento": "",
+                    "dataPagamento":"",
+                    "banco":"",
+                    "valor":"10,04",
+                    "descricao":"Pagamento"
+                }
+            },"tu": {
+                "android": {
+                    "cpf": "13986651187",
+                    "senha": "147258",
+                    "codigoDeBarras": "85640000000-1 10040489202-6 50325091210-5 31000118391-5",
+                    "dataVencimento": "",
+                    "dataPagamento":"",
+                    "banco":"",
+                    "valor":"10,04",
+                    "descricao":"Pagamento"
+                },"ios": {
+                    "cpf": "13986651187",
+                    "senha": "147258",
+                    "codigoDeBarras": "85640000000-1 10040489202-6 50325091210-5 31000118391-5",
+                    "dataVencimento": "",
+                    "dataPagamento":"",
+                    "banco":"",
+                    "valor":"10,04",
+                    "descricao":"Pagamento"
+                }
+            }
+        }
+    }
+]

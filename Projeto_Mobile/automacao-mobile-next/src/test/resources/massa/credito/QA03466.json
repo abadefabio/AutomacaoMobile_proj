@@ -1,0 +1,35 @@
+[
+    {
+        "QA03466": {
+            "ti": {
+                "android": {
+                    "cpf": "02421673143",
+                    "senha": "147258",
+                    "valorCredito": "1.002,69",
+                    "texto": "credito parcelado param",
+                    "textoTitulo": "PAGAR"
+                },"ios": {
+                    "cpf": "02421673143",
+                    "senha": "147258",
+                    "valorCredito": "1.002,69",
+                    "texto": "credito parcelado param",
+                    "textoTitulo": "PAGAR"
+                }
+            },"tu": {
+                "android": {
+                    "cpf": "02421673143",
+                    "senha": "147258",
+                    "valorCredito": "35.276,81",
+                    "texto": "credito parcelado param",
+                    "textoTitulo": "PAGAR"
+                },"ios": {
+                    "cpf": "02421673143",
+                    "senha": "147258",
+                    "valorCredito": "35.276,81",
+                    "texto": "credito parcelado param",
+                    "textoTitulo": "PAGAR"
+                }
+            }
+        }
+    }
+]

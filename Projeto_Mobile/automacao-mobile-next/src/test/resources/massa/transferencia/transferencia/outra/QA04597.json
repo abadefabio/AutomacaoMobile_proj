@@ -1,0 +1,27 @@
+[
+    {
+        "QA04597": {
+            "ti": {
+                "android": {
+                    "cpf": "53394032465",
+                    "senha": "147258",
+                    "tarifaGranaEmergencia": "11,65"
+                },"ios": {
+                    "cpf": "53394032465",
+                    "senha": "147258",
+                    "tarifaGranaEmergencia": "11,65"
+                }
+            },"tu": {
+                "android": {
+                    "cpf": "56263823216",
+                    "senha": "147258",
+                    "tarifaGranaEmergencia": "11,65"
+                },"ios": {
+                    "cpf": "73440565696",
+                    "senha": "147258",
+                    "tarifaGranaEmergencia": "11,65"
+                }
+            }
+        }
+    }
+]

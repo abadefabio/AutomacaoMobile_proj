@@ -1,0 +1,39 @@
+[
+    {
+        "QA02891": {
+            "ti": {
+                "android": {
+                    "cpf": "33114682103",
+                    "senha":"147258",
+                    "codigoBarras": "83600000001-5 00000048202-6 40704086030-3 47084140967-0",
+                    "favorecidoInstituicao": "ENEL DISTRIBUI플O/SP",
+                    "descricao": "Agendamento teste - Enel",
+                    "valor": "100,00"
+                },"ios": {
+                    "cpf": "64069237313",
+                    "senha":"147258",
+                    "codigoBarras": "83630000001-2 00000048202-6 40704576632-3 63597119753-1",
+                    "favorecidoInstituicao": "ENEL DISTRIBUI플O/SP",
+                    "descricao": "Agendamento teste - Enel",
+                    "valor": "100,00"
+                }
+            },"tu": {
+                "android": {
+                    "cpf": "33114682103",
+                    "senha":"147258",
+                    "codigoBarras": "83670000000-0 44520048100-7 14118431441-9 00137387950-9",
+                    "favorecidoInstituicao": "ENEL DISTRIBUI플O/SP",
+                    "descricao": "Agendamento teste - Enel",
+                    "valor": "44,52"
+                },"ios": {
+                    "cpf": "33114682103",
+                    "senha":"147258",
+                    "codigoBarras": "83670000000-0 44520048100-7 14118431441-9 00137387950-9",
+                    "favorecidoInstituicao": "ENEL DISTRIBUI플O/SP",
+                    "descricao": "Agendamento teste - Enel",
+                    "valor": "44,52"
+                }
+            }
+        }
+    }
+]

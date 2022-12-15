@@ -1,0 +1,34 @@
+[
+    {
+        "QA02470": {
+            "ti": {
+                "android": {
+                    "cpf": "50377513300",
+                    "senha": "147258",
+                    "nomeContato": "FULANO NOVO",
+                    "chaveCelular": "(18) 99802-8412"
+                },
+                "ios": {
+                    "cpf": "57335175305",
+                    "senha": "147258",
+                    "nomeContato": "FULANO NOVO",
+                    "chaveCelular": "(18) 99730-6639"
+                }
+            },
+            "tu": {
+                "android": {
+                    "cpf": "62972227891",
+                    "senha": "147258",
+                    "nomeContato": "FULANO NOVO",
+                    "chaveCelular": "(18) 99802-8412"
+                },
+                "ios": {
+                    "cpf": "62972227891",
+                    "senha": "147258",
+                    "nomeContato": "FULANO NOVO",
+                    "chaveCelular": "(18) 99802-8412"
+                }
+            }
+        }
+    }
+]

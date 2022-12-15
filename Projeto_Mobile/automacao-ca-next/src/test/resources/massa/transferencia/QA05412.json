@@ -1,0 +1,100 @@
+[
+    {
+        "QA05412": {
+            "instancia": [
+                {
+                    "squad": "@contingencia",
+                    "tags": "@com-reset-app",
+                    "tu": {
+                        "cpf": "93487665468",
+                        "senha": "147258",
+                        "objeto": {
+                            "banco": "NU PAGAMENTOS S.A. - 260",
+                            "agencia": "3728",
+                            "conta": "21745",
+                            "cpfcnpj": "47925013699",
+                            "nomeCompleto": "INSTITUICAO PAGAMENTO",
+                            "nome": "INSTITUICAO",
+                            "sobrenome": "PAGAMENTO",
+                            "valortransferencia": "30,00",
+                            "finalidadetransferencia": "CREDITO EM CONTA - PG",
+                            "nometransferencia": "teste transferencia",
+                            "valortarifa": "11,65",
+                            "bankId": "260",
+                            "branchId": "3728",
+                            "razaosocial": "INSTITUICAO PAGAMENTO"
+                        }
+                    },
+                    "ti": {
+                        "cpf": "81641126906",
+                        "senha": "147258",
+                        "objeto": {
+                            "nome": "INSTITUICAO",
+                            "sobrenome": "PAGAMENTO",
+                            "nomeCompleto": "INSTITUICAO PAGAMENTO",
+                            "valortransferencia": "30,00",
+                            "finalidadetransferencia": "CREDITO EM CONTA",
+                            "nometransferencia": "teste transferencia",
+                            "valortarifa": "11,65",
+                            "banco": "NU PAGAMENTOS S.A. - 260",
+                            "conta": "21745",
+                            "bankId": "260",
+                            "branchId": "3728",
+                            "contapagamento": "21745",
+                            "razaosocial": "INSTITUICAO PAGEMENTO",
+                            "cpfcnpj": "47925013699",
+                            "agencia": "3728"
+                        }
+                    }
+                },
+                {
+                    "squad": "@contingencia",
+                    "tags": "@sem-reset-app",
+                    "tu": {
+                        "cpf": "93487665468",
+                        "senha": "147258",
+                        "objeto": {
+                            "banco": "NU PAGAMENTOS S.A. - 260",
+                            "agencia": "3728",
+                            "conta": "21745",
+                            "cpfcnpj": "47925013699",
+                            "nomeCompleto": "INSTITUICAO PAGAMENTO",
+                            "nome": "INSTITUICAO",
+                            "sobrenome": "PAGAMENTO",
+                            "valortransferencia": "30,00",
+                            "finalidadetransferencia": "CREDITO EM CONTA - PG",
+                            "nometransferencia": "teste transferencia",
+                            "valortarifa": "11,65",
+                            "bankId": "260",
+                            "branchId": "3728",
+                            "razaosocial": "INSTITUICAO PAGAMENTO"
+                        }
+                    },
+                    "ti": {
+                        "cpf": "93174691168",
+                        "senha": "147258",
+                        "objeto": {
+                            "nome": "INSTITUICAO",
+                            "sobrenome": "PAGAMENTO",
+                            "nomeCompleto": "INSTITUICAO PAGAMENTO",
+                            "valortransferencia": "30,00",
+                            "finalidadetransferencia": "CREDITO EM CONTA - PG",
+                            "nometransferencia": "teste transferencia",
+                            "valortarifa": "11,65",
+                            "intituicaoBancoISPB": "18236120",
+                            "intituicaoBanco": "NU PAGAMENTOS S.A.",
+                            "banco": "NU PAGAMENTOS S.A. - 260",
+                            "conta": "21745",
+                            "bankId": "260",
+                            "branchId": "3728",
+                            "contapagamento": "21745",
+                            "razaosocial": "INSTITUICAO PAGEMENTO",
+                            "cpfcnpj": "47925013699",
+                            "agencia": "3728"
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

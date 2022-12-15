@@ -1,0 +1,30 @@
+[
+    {
+        "QA14309": {
+            "ti": {
+                "android": {
+                    "cpf": "54870819724",
+                    "senha": "147258",
+                    "valorLimite": "99"
+                },
+                "ios": {
+                    "cpf": "13595265874",
+                    "senha": "147258",
+                    "valorLimite": "99"
+                }
+            },
+            "tu": {
+                "android": {
+                    "cpf": "20527323497",
+                    "senha": "159357",
+                    "valorLimite": "9900"
+                },
+                "ios": {
+                    "cpf": "20527323497",
+                    "senha": "159357",
+                    "valorLimite": "99"
+                }
+            }
+        }
+    }
+]

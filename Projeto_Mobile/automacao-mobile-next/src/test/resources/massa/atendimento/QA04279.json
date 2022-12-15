@@ -1,0 +1,32 @@
+[
+    {
+        "QA04279": {
+            "ti": {
+                "android": {
+                    "cpf": "37931784634",
+                    "senha": "147258",
+                    "deepLink": "next://depositosESaques",
+                    "textoDeepLink": "Depósitos e saques"
+                },"ios": {
+                    "cpf": "37931784634",
+                    "senha": "147258",
+                    "deepLink": "next://depositosESaques",
+                    "textoDeepLink": "Depósitos e saques"
+                }
+            },"tu": {
+                "android": {
+                    "cpf": "37931784634",
+                    "senha": "147258",
+                    "deepLink": "next://depositosESaques",
+                    "textoDeepLink": "Depósitos e saques"
+                },"ios": {
+                    "cpf": "37931784634",
+                    "senha": "147258",
+                    "deepLink": "next://depositosESaques",
+                    "textoDeepLink": "Depósitos e saques"
+                }
+            }
+
+        }
+    }
+]

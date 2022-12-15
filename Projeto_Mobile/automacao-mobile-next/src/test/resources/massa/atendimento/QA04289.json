@@ -1,0 +1,32 @@
+[
+    {
+        "QA04289": {
+            "ti": {
+                "android": {
+                    "cpf": "67463218007",
+                    "senha": "147258",
+                    "deepLink": "next://transferencia",
+                    "textoDeepLink": "Transferência"
+                },"ios": {
+                    "cpf": "67463218007",
+                    "senha": "147258",
+                    "deepLink": "next://transferencia",
+                    "textoDeepLink": "Transferência"
+                }
+            },"tu": {
+                "android": {
+                    "cpf": "67463218007",
+                    "senha": "147258",
+                    "deepLink": "next://transferencia",
+                    "textoDeepLink": "Transferência"
+                },"ios": {
+                    "cpf": "67463218007",
+                    "senha": "147258",
+                    "deepLink": "next://transferencia",
+                    "textoDeepLink": "Transferência"
+                }
+            }
+
+        }
+    }
+]

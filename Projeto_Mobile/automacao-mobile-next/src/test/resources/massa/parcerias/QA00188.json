@@ -1,0 +1,71 @@
+[
+  {
+    "QA00188": {
+        "ti": {
+            "android": {
+                "cpf": "56978539120",
+                "senha": "147258",
+                "contato": "Fulano de Tal Matos",
+                "contatoTelefone": "79996009999",
+                "mensagem": "Assim que a pessoa completar a adesão, abrir a conta e começar a movimentar, você irá receber o crédito em dinheiro no mês seguinte :)",
+                "contatoAdicionalNome": "REPRESENTANTE MAURO",
+                "numeroCelularIncompleto": "971019999",
+                "mensagemCelularIncompleto": "número de celular incompleto.",
+                "numeroAdicional": "11971019999",
+                "numeroTelefoneFixo": "1124785129",
+                "mensagemErroTelefoneAndroid": "O telefone informado deve ser um celular válido.",
+                "mensagemErroTelefoneIOS": "número de celular incompleto.",
+                "nomeContatoComPalavrão": "Puto da Silva Pinheiros",
+                "mensagemNomeInválido": "Nome inválido, tente outro."
+            },"ios": {
+                "cpf": "56978539120",
+                "senha": "147258",
+                "contato": "Fulano de Tal Matos",
+                "contatoTelefone": "79996009999",
+                "mensagem": "Assim que a pessoa completar a adesão, abrir a conta e começar a movimentar, você irá receber o crédito em dinheiro no mês seguinte :)",
+                "contatoAdicionalNome": "REPRESENTANTE MAURO",
+                "numeroCelularIncompleto": "971019999",
+                "mensagemCelularIncompleto": "número de celular incompleto.",
+                "numeroAdicional": "11971019999",
+                "numeroTelefoneFixo": "1124785129",
+                "mensagemErroTelefoneAndroid": "O telefone informado deve ser um celular válido.",
+                "mensagemErroTelefoneIOS": "número de celular incompleto.",
+                "nomeContatoComPalavrão": "Puto da Silva Pinheiros",
+                "mensagemNomeInválido": "Nome inválido, tente outro."
+            }
+        },"tu": {
+            "android": {
+                "cpf": "36144365516",
+                "senha": "147258",
+                "contato": "Fulano de Tal Matos",
+                "contatoTelefone": "79996009999",
+                "mensagem": "Assim que a pessoa completar a adesão, abrir a conta e começar a movimentar, você irá receber o crédito em dinheiro no mês seguinte :)",
+                "contatoAdicionalNome": "REPRESENTANTE MAURO",
+                "numeroCelularIncompleto": "971019999",
+                "mensagemCelularIncompleto": "número de celular incompleto.",
+                "numeroAdicional": "11971019999",
+                "numeroTelefoneFixo": "1124785129",
+                "mensagemErroTelefoneAndroid": "O telefone informado deve ser um celular válido.",
+                "mensagemErroTelefoneIOS": "número de celular incompleto.",
+                "nomeContatoComPalavrão": "Puto da Silva Pinheiros",
+                "mensagemNomeInválido": "Nome inválido, tente outro."
+            },"ios": {
+                "cpf": "36144365516",
+                "senha": "147258",
+                "contato": "Fulano de Tal Matos",
+                "contatoTelefone": "79996009999",
+                "mensagem": "Assim que a pessoa completar a adesão, abrir a conta e começar a movimentar, você irá receber o crédito em dinheiro no mês seguinte :)",
+                "contatoAdicionalNome": "REPRESENTANTE MAURO",
+                "numeroCelularIncompleto": "971019999",
+                "mensagemCelularIncompleto": "número de celular incompleto.",
+                "numeroAdicional": "11971019999",
+                "numeroTelefoneFixo": "1124785129",
+                "mensagemErroTelefoneAndroid": "O telefone informado deve ser um celular válido.",
+                "mensagemErroTelefoneIOS": "número de celular incompleto.",
+                "nomeContatoComPalavrão": "Puto da Silva Pinheiros",
+                "mensagemNomeInválido": "Nome inválido, tente outro."
+            }
+        }
+    }
+  }
+]

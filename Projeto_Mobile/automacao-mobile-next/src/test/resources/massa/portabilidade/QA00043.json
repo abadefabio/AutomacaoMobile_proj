@@ -1,0 +1,29 @@
+[
+  {
+    "QA00043": {
+        "ti": {
+            "android": {
+                "cpf": "30622751700",
+                "senha": "147258",
+                "cnpjPortabilidadePendente": "54.127.482/0001-74"
+            },
+            "ios": {
+                "cpf": "15176977516",
+                "senha": "147258",
+                "cnpjPortabilidadePendente": "00.196.477/0001-94"
+            }
+        },
+        "tu": {
+            "android": {
+                "cpf": "70747205507",
+                "senha": "147258"
+            },
+            "ios": {
+                "cpf": "34142820893",
+                "senha": "147258"
+            }
+        }
+
+    }
+  }
+]

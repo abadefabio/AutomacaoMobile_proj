@@ -1,0 +1,29 @@
+[
+    {
+        "QA03405": {
+            "ti": {
+                "android": {
+                    "cpf": "77803032095",
+                    "senha": "147258",
+                    "texto":"Aviso de Viagem ativado."
+                },"ios": {
+                    "cpf": "77803032095",
+                    "senha": "147258",
+                    "texto":"Aviso de Viagem ativado."
+                }
+            },
+            "tu": {
+                "android": {
+                    "cpf": "78414251714",
+                    "senha": "147258",
+                    "texto":"Aviso de Viagem ativado."
+                },
+                "ios": {
+                    "cpf": "78414251714",
+                    "senha": "147258",
+                    "texto":"Aviso de Viagem ativado."
+                }
+            }
+        }
+    }
+]

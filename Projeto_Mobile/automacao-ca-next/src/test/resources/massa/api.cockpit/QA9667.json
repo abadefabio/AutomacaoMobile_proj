@@ -1,0 +1,12 @@
+[
+    {
+        "QA9667": {
+            "cpf": "33275743830",
+            "senha": "147258",
+            "status_5" : {
+                "onboardingStatus" : 5,
+                "applicationCreationDate" : "2018-01-18"
+            }
+        }
+    }
+]

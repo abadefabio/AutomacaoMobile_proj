@@ -1,0 +1,41 @@
+[
+  {
+    "QA03164": {
+        "ti": {
+            "android": {
+                "cpf": "57729157543",
+                "senha": "147258",
+                "telefone": "(71) 996009999",
+                "telefoneIncorreto": "00000000000",
+                "operadora": "VIVO-BA",
+                "nome": "next teste",
+                "valorRecarga" : "1,00"
+            },"ios": {
+                "cpf": "51764232275",
+                "senha": "147258",
+                "telefone": "(71) 996009999",
+                "telefoneIncorreto": "00000000000",
+                "operadora": "VIVO-BA",
+                "nome": "next teste",
+                "valorRecarga" : "1,00"
+            }
+        },"tu": {
+            "android": {
+                "cpf": "77485896237",
+                "senha": "147258",
+                "telefone": "(11) 97101-9999",
+                "operadora": "VIVO - SP",
+                "nome": "next teste",
+                "valorRecarga" : "1,00"
+            },"ios": {
+                "cpf": "77485896237",
+                "senha": "147258",
+                "telefone": "(11) 97101-9999",
+                "operadora": "VIVO - SP",
+                "nome": "next teste",
+                "valorRecarga" : "1,00"
+            }
+        }
+    }
+  }
+]

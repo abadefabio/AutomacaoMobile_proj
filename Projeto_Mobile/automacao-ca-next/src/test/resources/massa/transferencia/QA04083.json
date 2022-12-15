@@ -1,0 +1,108 @@
+[
+    {
+        "QA04083": {
+            "instancia": [
+                {
+                    "squad": "@contingencia",
+                    "tags": "@com-reset-app",
+                    "tu": {
+                        "cpf": "93487665468",
+                        "senha": "147258",
+                        "objeto": {
+                            "nome": "JOSE M F FIGUEIROA",
+                            "agencia": "3385",
+                            "conta": "33122",
+                            "de": "Você",
+                            "para": "JOSE M F FIGUEIROA",
+                            "destino": "Conta-Poupança",
+                            "origem": "Conta-Corrente",
+                            "valorTransferir": "100,00",
+                            "tipo": "TED",
+                            "tipoConta": "Poupança",
+                            "finalidadeSeletor": "TRANSF ENTRE CTAS MM TITULARID",
+                            "finalidadeVerificacao": "TRANSF ENTRE CTAS MM",
+                            "nomeTransferencia": "Teste",
+                            "confereValor": "R$ 100,00",
+                            "banco": "BANCO DO BRASIL S.A.",
+                            "bankId": "1",
+                            "valorTarifa": "11,65"
+                        }
+                    },
+                    "ti": {
+                        "cpf": "93174691168",
+                        "senha": "147258",
+                        "objeto": {
+                            "nome": "GUSTAVO HEITOR ALEXANDRE MOURA",
+                            "agencia": "3385",
+                            "conta": "33121",
+                            "de": "Você",
+                            "para": "GUSTAVO HEITOR ALEXANDRE MOURA",
+                            "destino": "Conta-Poupança",
+                            "origem": "Conta-Corrente",
+                            "valorTransferir": "100,00",
+                            "tipo": "TED",
+                            "tipoConta": "Poupança",
+                            "finalidadeSeletor": "TRANSF ENTRE CTAS MM TITULARID",
+                            "finalidadeVerificacao": "TRANSF ENTRE CTAS MM",
+                            "nomeTransferencia": "Teste",
+                            "confereValor": "R$ 100,00",
+                            "banco": "BANCO DO BRASIL S.A.",
+                            "bankId": "1",
+                            "valorTarifa": "11,65"
+                        }
+                    }
+                },
+                {
+                    "squad": "@contingencia",
+                    "tags": "@sem-reset-app",
+                    "tu": {
+                        "cpf": "93487665468",
+                        "senha": "147258",
+                        "objeto": {
+                            "nome": "JOSE M F FIGUEIROA",
+                            "agencia": "3385",
+                            "conta": "33122",
+                            "de": "Você",
+                            "para": "JOSE M F FIGUEIROA",
+                            "destino": "Conta-Poupança",
+                            "origem": "Conta-Corrente",
+                            "valorTransferir": "100,00",
+                            "tipo": "TED",
+                            "tipoConta": "Poupança",
+                            "finalidadeSeletor": "TRANSF ENTRE CTAS MM TITULARID",
+                            "finalidadeVerificacao": "TRANSF ENTRE CTAS MM",
+                            "nomeTransferencia": "Teste",
+                            "confereValor": "R$ 100,00",
+                            "banco": "BANCO DO BRASIL S.A.",
+                            "bankId": "1",
+                            "valorTarifa": "11,65"
+                        }
+                    },
+                    "ti": {
+                        "cpf": "93174691168",
+                        "senha": "147258",
+                        "objeto": {
+                            "nome": "GUSTAVO HEITOR ALEXANDRE MOURA",
+                            "agencia": "3385",
+                            "conta": "33121",
+                            "de": "Você",
+                            "para": "GUSTAVO HEITOR ALEXANDRE MOURA",
+                            "destino": "Conta-Poupança",
+                            "origem": "Conta-Corrente",
+                            "valorTransferir": "100,00",
+                            "tipo": "TED",
+                            "tipoConta": "Poupança",
+                            "finalidadeSeletor": "TRANSF ENTRE CTAS MM TITULARID",
+                            "finalidadeVerificacao": "TRANSF ENTRE CTAS MM",
+                            "nomeTransferencia": "Teste",
+                            "confereValor": "R$ 100,00",
+                            "banco": "BANCO DO BRASIL S.A.",
+                            "bankId": "1",
+                            "valorTarifa": "11,65"
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

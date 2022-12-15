@@ -1,0 +1,31 @@
+[
+    {
+        "QA9665": {
+            "cpf": "66820824521",
+            "validacaoVideoAceite" : {
+                "documentResponses.uploadDate[0]": "2021-08-02 17:08"
+            },
+            "validacaoRgCpfJpeg" : {
+                "documentResponses.uploadDate[1]": "2021-08-02 17:08"
+            },
+            "validacaoArqInfoEssenciaisContaNext" : {
+                "documentResponses.uploadDate[2]": "2021-08-02 17:08"
+            },
+            "validacaoProdEServPdf" : {
+                "documentResponses.uploadDate[3]": "2021-08-02 17:08"
+            },
+            "validacaoTermoCondicaoPdf" : {
+                "documentResponses.uploadDate[4]" : "2021-08-02 17:08"
+            },
+            "validacaoDiretivasPrivacidadePdf" : {
+                "documentResponses.uploadDate[5]" : "2021-08-02 17:08"
+            },
+            "validacaoPropostaAberturaContaDepPf" : {
+                "documentResponses.uploadDate[7]" : "2021-08-03 13:52"
+            },
+            "validacaoRetornoAberturaContaCestaServico" : {
+                "documentResponses.uploadDate[8]" : "2021-08-03 13:52"
+            }
+        }
+    }
+]

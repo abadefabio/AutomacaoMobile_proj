@@ -1,0 +1,39 @@
+[
+  {
+    "QA00048": {
+        "ti": {
+            "android": {
+                "cnpj": "42133116000149",
+                "cnpjFormatado": "42.248.513/0001-66",
+                "cpf": "12231846179",
+                "senha": "147258",
+                "favorecidoInstituicao": "banco santander",
+                "mensagem": "CONTESTAR"
+            },"ios":{
+                "cnpj": "42133116000149",
+                "cnpjFormatado": "42.133.116/0001-49",
+                "cpf": "12231846179",
+                "senha": "147258",
+                "favorecidoInstituicao": "banco santander",
+                "mensagem": "CONTESTAR"
+            }
+        },
+        "tu": {
+            "android": {
+                "cnpj": "07382019000199",
+                "favorecidoCpf": "79580841454",
+                "senha": "147258",
+                "favorecidoInstituicao": "banco santander",
+                "mensagem": "CONTESTAR"
+            },"ios":{
+                "cnpj": "07382019000199",
+                "favorecidoCpf": "79580841454",
+                "senha": "147258",
+                "favorecidoInstituicao": "banco santander",
+                "mensagem": "CONTESTAR"
+            }
+        }
+
+    }
+  }
+]

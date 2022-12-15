@@ -1,0 +1,30 @@
+[
+    {
+        "QA04258": {
+            "ti": {
+                "android": {
+                    "cpf": "79711051001",
+                    "senha": "147258",
+                    "nomeDependente": "FULANO"
+                },
+                "ios": {
+                    "cpf": "79711051001",
+                    "senha": "147258",
+                    "nomeDependente": "FULANO"
+                }
+            },
+            "tu": {
+                "android": {
+                    "cpf": "79711051001",
+                    "senha": "147258",
+                    "nomeDependente": "FULANO"
+                },
+                "ios": {
+                    "cpf": "79711051001",
+                    "senha": "147258",
+                    "nomeDependente": "FULANO"
+                }
+            }
+        }
+    }
+]

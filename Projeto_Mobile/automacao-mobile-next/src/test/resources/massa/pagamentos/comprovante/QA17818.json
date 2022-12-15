@@ -1,0 +1,47 @@
+[
+    {
+        "QA17818": {
+            "ti": {
+                "android": {
+                    "cpf": "12108702318",
+                    "senha": "147258",
+                    "codigoDeBarras": "85680000000-7 10550099691-0 04681188328-2 64020160509-7",
+                    "dataVencimento": "",
+                    "dataPagamento":"",
+                    "banco":"",
+                    "valor":"10,55",
+                    "descricao":"SEFAZ-SP/GNRE"
+                },"ios": {
+                    "cpf": "12108702318",
+                    "senha": "147258",
+                    "codigoDeBarras": "85680000000-7 10550099691-0 04681188328-2 64020160509-7",
+                    "dataVencimento": "",
+                    "dataPagamento":"",
+                    "banco":"",
+                    "valor":"10,55",
+                    "descricao":"SEFAZ-SP/GNRE"
+                }
+            },"tu": {
+                "android": {
+                    "cpf": "12108702318",
+                    "senha": "147258",
+                    "codigoDeBarras": "85680000000-7 10550099691-0 04681188328-2 64020160509-7",
+                    "dataVencimento": "",
+                    "dataPagamento":"",
+                    "banco":"",
+                    "valor":"10,55",
+                    "descricao":"SEFAZ-SP/GNRE"
+                },"ios": {
+                    "cpf": "12108702318",
+                    "senha": "147258",
+                    "codigoDeBarras": "85680000000-7 10550099691-0 04681188328-2 64020160509-7",
+                    "dataVencimento": "",
+                    "dataPagamento":"",
+                    "banco":"",
+                    "valor":"10,55",
+                    "descricao":"SEFAZ-SP/GNRE"
+                }
+            }
+        }
+    }
+]

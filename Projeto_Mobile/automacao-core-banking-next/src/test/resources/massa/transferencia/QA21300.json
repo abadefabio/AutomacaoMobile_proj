@@ -1,0 +1,10 @@
+[
+    {
+        "QA21300": {
+            "cpf": "24465636199",
+            "dataInicial": "2022-06-23T13:26:17.926892300Z",
+            "dataFinal": "2022-11-23T13:26:17.926892300Z",
+            "tokenInvalido": "eyAgICJhbGciOiAiSFMyNTYiIH0"
+        }
+    }
+]

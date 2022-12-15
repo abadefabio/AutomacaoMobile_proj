@@ -1,0 +1,51 @@
+[
+  {
+    "QA00046": {
+        "ti": {
+            "android": {
+                "cpf": "42717335714",
+                "senha": "147258",
+                "portabilidade" :{
+                    "CPF/CNPJ" : "07382019000199",
+                    "Status" : "PENDENTE",
+                    "Banco" : "ITAU UNIBANCO S.A",
+                    "Data de Criação" : "11/08/2021"
+                }
+            },
+            "ios": {
+                "cpf": "42717335714",
+                "senha": "147258",
+                "portabilidade" :{
+                    "CPF/CNPJ" : "07382019000199",
+                    "Status" : "PENDENTE",
+                    "Banco" : "ITAU UNIBANCO S.A",
+                    "Data de Criação" : "11/08/2021"
+                }
+            }
+        },
+        "tu": {
+            "android": {
+                "cpf": "42717335714",
+                "senha": "147258",
+                "portabilidade" :{
+                    "CPF/CNPJ" : "07382019000199",
+                    "Status" : "PENDENTE",
+                    "Banco" : "341 - ITAU UNIBANCO S.A.",
+                    "Data de Criação" : "15/07/2021"
+                }
+            },
+            "ios": {
+                "cpf": "42717335714",
+                "senha": "147258",
+                "portabilidade" :{
+                    "CPF/CNPJ" : "07382019000199",
+                    "Status" : "PENDENTE",
+                    "Banco" : "341 - ITAU UNIBANCO S.A.",
+                    "Data de Criação" : "15/07/2021"
+                }
+            }
+        }
+
+    }
+  }
+]

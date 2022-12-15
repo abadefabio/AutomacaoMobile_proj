@@ -1,0 +1,11 @@
+[
+  {
+    "QA00239" :
+    {
+      "loginGestao" : "I901001",
+      "senhaGestao" : "teste060",
+      "ofertaNome": "Uber Eats",
+      "nomeOferta": "Teste QA - 237"
+    }
+  }
+]

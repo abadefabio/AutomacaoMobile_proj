@@ -1,0 +1,32 @@
+[
+    {
+        "QA04284": {
+            "ti": {
+                "android": {
+                    "cpf": "33855222266",
+                    "senha": "147258",
+                    "deepLink": "next://pagamentos",
+                    "textoDeepLink": "Pagamentos"
+                },"ios": {
+                    "cpf": "33855222266",
+                    "senha": "147258",
+                    "deepLink": "next://pagamentos",
+                    "textoDeepLink": "Pagamentos"
+                }
+            },"tu": {
+                "android": {
+                    "cpf": "33855222266",
+                    "senha": "147258",
+                    "deepLink": "next://pagamentos",
+                    "textoDeepLink": "Pagamentos"
+                },"ios": {
+                    "cpf": "33855222266",
+                    "senha": "147258",
+                    "deepLink": "next://pagamentos",
+                    "textoDeepLink": "Pagamentos"
+                }
+            }
+
+        }
+    }
+]

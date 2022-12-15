@@ -1,0 +1,34 @@
+package constantes.cartao;
+
+public enum TituloTela {
+
+    CARTAO_IOS("CARTÃO"),
+    CARTAO_ANDROID("Cartão"),
+    FATURA("FATURA"),
+    OFERTA_DE_CARTAO("OFERTA DE CARTÃO"),
+    YEAH("YEAH!"),
+    DESBLOQUEIO_DE_CARTAO_TELA_ANDROID("Desbloqueio de cartão"),
+    DESBLOQUEIO_DE_CARTAO_TELA_IOS("DESBLOQUEIO DE CARTÃO"),
+    CANCELAR_POR_ROUBO_OU_PERDA("CANCELAR POR ROUBO OU PERDA"),
+
+    CANCELAR_POR_ESTAR_DANIFICADO("CANCELAR POR ESTAR DANIFICADO"),
+    PAGAR("PAGAR"),
+    BOLETO_TELA("BOLETO"),
+    ALTERAR_ENDERECO("ALTERAR ENDEREÇO"),
+    SEGUNDA_VIA_E_CANCELAMENTO_DO_CARTAO("2ª VIA E CANCELAMENTO"),
+    CANCELAR_CARTAO("CANCELAR CARTÃO"),
+    SOLICITAR_CARTAO_APROXIMACAO("SOLICITAR CARTÃO COM APROXIMAÇÃO"),
+    CARTAO("CARTÃO"),
+    CONFIRMAR_ENDERECO ("CONFIRMAR ENDEREÇO");
+
+    private String value;
+
+    TituloTela(String value) {
+        this.value = value;
+    }
+
+    @Override
+    public String toString() {
+        return value;
+    }
+}

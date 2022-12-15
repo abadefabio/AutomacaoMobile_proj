@@ -1,0 +1,27 @@
+[
+    {
+        "QA21025": {
+            "ti": {
+                "android": {
+                    "cpf": "64810137988",
+                    "senha": "147258",
+                    "valorAplicado": "15000"
+                },"ios": {
+                    "cpf": "53325855431",
+                    "senha": "147258",
+                    "valorAplicado": "15000"
+                }
+            },"tu": {
+                "android": {
+                    "cpf": "47448284690",
+                    "senha": "147258",
+                    "valorAplicado": "15000"
+                },"ios": {
+                    "cpf": "47448284690",
+                    "senha": "147258",
+                    "valorAplicado": "15000"
+                }
+            }
+        }
+    }
+]
